@@ -606,5 +606,5653 @@
     "part_of_speech": "noun",
     "level": "A1",
     "definition": "the time between a person's birth and their death"
+  },
+  {
+    "id": "2A40D234",
+    "term": "end",
+    "pronunciation": "/end/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the final part of something such as a period of time, activity, or story"
+  },
+  {
+    "id": "CC90043A",
+    "term": "an",
+    "pronunciation": "/æn/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used instead of \"\"\"a\"\"\" when the following word begins with a vowel sound"
+  },
+  {
+    "id": "847061D3",
+    "term": "and",
+    "pronunciation": "/ænd/",
+    "part_of_speech": "conjunction",
+    "level": "A1",
+    "definition": "used to join two words, phrases, parts of sentences or related statements together"
+  },
+  {
+    "id": "9A43CB72",
+    "term": "and",
+    "pronunciation": "/ænd/",
+    "part_of_speech": "conjunction",
+    "level": "A1",
+    "definition": "used when saying or adding numbers"
+  },
+  {
+    "id": "8174F9C6",
+    "term": "and",
+    "pronunciation": "/ænd/",
+    "part_of_speech": "conjunction",
+    "level": "A1",
+    "definition": "used to say that one thing happens after another thing"
+  },
+  {
+    "id": "46BBFEF3",
+    "term": "egg",
+    "pronunciation": "/eg/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an oval object with a hard shell which is produced by female birds, especially chickens, and which is eaten as food"
+  },
+  {
+    "id": "53671464",
+    "term": "animal",
+    "pronunciation": "/ˈæn.ə.məl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "something that lives and moves but is not a human, bird, fish or insect"
+  },
+  {
+    "id": "1EE351F4",
+    "term": "answer",
+    "pronunciation": "/ˈæn.sər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "what you say or write back to someone who has asked you a question or spoken to you"
+  },
+  {
+    "id": "6DB29ECB",
+    "term": "answer",
+    "pronunciation": "/ˈæn.sər/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to speak or write back to someone who has asked you a question"
+  },
+  {
+    "id": "8DD2730C",
+    "term": "number",
+    "pronunciation": "/ˈnʌm.bər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a symbol or word used in a counting system or used to show the position or order of something"
+  },
+  {
+    "id": "1FCA4008",
+    "term": "number",
+    "pronunciation": "/ˈnʌm.bər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a telephone number"
+  },
+  {
+    "id": "5ADC7CCC",
+    "term": "number",
+    "pronunciation": "/ˈnʌm.bər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a group of numbers that represents something"
+  },
+  {
+    "id": "34168194",
+    "term": "any",
+    "pronunciation": "/ˈen.i/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used in questions and negatives to mean some"
+  },
+  {
+    "id": "D84815A8",
+    "term": "any",
+    "pronunciation": "/ˈen.i/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "one of or each of a particular kind of person or thing when it is not important which"
+  },
+  {
+    "id": "BF31CC1A",
+    "term": "now",
+    "pronunciation": "/nɑʊ/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "at the present time"
+  },
+  {
+    "id": "67EA641B",
+    "term": "more",
+    "pronunciation": "/mɔːr/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "something in addition to what you already have"
+  },
+  {
+    "id": "84756304",
+    "term": "more",
+    "pronunciation": "/mɔːr/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "a greater number or amount of people or things"
+  },
+  {
+    "id": "40C02CE2",
+    "term": "more beautiful/difficult/easily, etc.",
+    "pronunciation": "/mɔːr/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used before an adjective or adverb to show that someone or something has a greater amount of a quality than someone or something else"
+  },
+  {
+    "id": "4595A128",
+    "term": "anything",
+    "pronunciation": "/ˈen.iːˌθɪŋ/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "any object, event, situation, etc."
+  },
+  {
+    "id": "499C55CA",
+    "term": "anything",
+    "pronunciation": "/ˈen.iːˌθɪŋ/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used in questions or negatives to mean \"\"\"something\"\"\""
+  },
+  {
+    "id": "0E358999",
+    "term": "please",
+    "pronunciation": "/pliːz/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "used to make a request more polite"
+  },
+  {
+    "id": "7F3754D3",
+    "term": "near",
+    "pronunciation": "/nɪr/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "close in distance"
+  },
+  {
+    "id": "AE3C6B59",
+    "term": "apple",
+    "pronunciation": "/ˈæp.əl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a hard, round fruit that has a green or red skin and is white inside"
+  },
+  {
+    "id": "57F2F8A3",
+    "term": "April",
+    "pronunciation": "/ˈeɪ.prəl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the fourth month of the year, after March and before May"
+  },
+  {
+    "id": "59E37450",
+    "term": "arm",
+    "pronunciation": "/ɑrm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the long part at each side of the human body, ending in a hand"
+  },
+  {
+    "id": "2192EFE4",
+    "term": "clock",
+    "pronunciation": "/klɑk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of equipment that shows you what time it is, usually in a house or on a building and not worn by a person"
+  },
+  {
+    "id": "52B74900",
+    "term": "run",
+    "pronunciation": "/rʌn/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to move on your feet at a faster speed than walking"
+  },
+  {
+    "id": "19DAC24A",
+    "term": "as",
+    "pronunciation": "/æz/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to talk about the job someone has"
+  },
+  {
+    "id": "40D080CD",
+    "term": "as well",
+    "pronunciation": "/æz/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "also"
+  },
+  {
+    "id": "03728113",
+    "term": "safe",
+    "pronunciation": "/seɪf/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not in danger or likely to be harmed"
+  },
+  {
+    "id": "E9B4F5AD",
+    "term": "know",
+    "pronunciation": "/noʊ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to have knowledge or information about something in your mind"
+  },
+  {
+    "id": "00D21F6C",
+    "term": "know",
+    "pronunciation": "/noʊ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "used to ask someone to tell you a piece of information"
+  },
+  {
+    "id": "AAEDE809",
+    "term": "walk",
+    "pronunciation": "/wɔːk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to move forward by putting one foot in front of the other and then repeating the action"
+  },
+  {
+    "id": "5CE5C340",
+    "term": "ask",
+    "pronunciation": "/æsk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to say a question to someone which you want them to answer"
+  },
+  {
+    "id": "6AD463DC",
+    "term": "face",
+    "pronunciation": "/feɪs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the front part of the head, where the eyes, nose and mouth are, or the expression on this part"
+  },
+  {
+    "id": "CFDB27F1",
+    "term": "night",
+    "pronunciation": "/nɑɪt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the time in every 24 hours when it is dark and people usually sleep"
+  },
+  {
+    "id": "02ACCFBD",
+    "term": "night",
+    "pronunciation": "/nɑɪt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the period from the evening to the time when you go to sleep"
+  },
+  {
+    "id": "5E5F446F",
+    "term": "many",
+    "pronunciation": "/ˈmen.i/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "a large number of"
+  },
+  {
+    "id": "569025DF",
+    "term": "how many",
+    "pronunciation": "/ˈmen.i/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used in questions to ask about the number of something"
+  },
+  {
+    "id": "F74D706A",
+    "term": "possible",
+    "pronunciation": "/ˈpɑs.ə.bəl/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "If something is possible, it can happen or be done."
+  },
+  {
+    "id": "1A850B4D",
+    "term": "see you soon",
+    "pronunciation": "/suːn/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used for saying goodbye to someone you are going to meet again soon"
+  },
+  {
+    "id": "1E5366DA",
+    "term": "name",
+    "pronunciation": "/neɪm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the word or words that a person, thing or place is known by"
+  },
+  {
+    "id": "31A169FA",
+    "term": "at",
+    "pronunciation": "/æt/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to show the place or position of something"
+  },
+  {
+    "id": "617CFEC1",
+    "term": "at",
+    "pronunciation": "/æt/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "toward or in the direction of"
+  },
+  {
+    "id": "D781DA37",
+    "term": "at",
+    "pronunciation": "/æt/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to show the time something happens"
+  },
+  {
+    "id": "05C0D403",
+    "term": "at",
+    "pronunciation": "/æt/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "the @ symbol, used in e-mail addresses to separate the name of a person, department, etc. from the name of the company"
+  },
+  {
+    "id": "EE662475",
+    "term": "word",
+    "pronunciation": "/wɜrd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a group of letters or sounds that mean something, or a single letter or sound that means something"
+  },
+  {
+    "id": "F5A66A2E",
+    "term": "minute",
+    "pronunciation": "/ˈmɪn.ɪt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of time equal to 60 seconds"
+  },
+  {
+    "id": "0D03CDB3",
+    "term": "first",
+    "pronunciation": "/fɜrst/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "before everything or everyone else"
+  },
+  {
+    "id": "D6B27E5C",
+    "term": "first",
+    "pronunciation": "/fɜrst/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "coming before all others"
+  },
+  {
+    "id": "70A5107A",
+    "term": "example",
+    "pronunciation": "/ɪgˈzæm.pəl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "something that is typical of the group of things being talked about"
+  },
+  {
+    "id": "24B6B637",
+    "term": "for example",
+    "pronunciation": "/ɪgˈzæm.pəl/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to give an example of the type of thing you mean"
+  },
+  {
+    "id": "B99ECD5F",
+    "term": "late",
+    "pronunciation": "/leɪt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "happening or being near the end of a period of time"
+  },
+  {
+    "id": "3449C20E",
+    "term": "late",
+    "pronunciation": "/leɪt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "happening or arriving after the planned, expected, usual or necessary time"
+  },
+  {
+    "id": "F6674BAE",
+    "term": "August",
+    "pronunciation": "/ˈɔː.gəst/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the eighth month of the year, after July and before September"
+  },
+  {
+    "id": "016E61A9",
+    "term": "baby",
+    "pronunciation": "/ˈbeɪ.bi/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a very young child"
+  },
+  {
+    "id": "FFCBED44",
+    "term": "bad",
+    "pronunciation": "/bæd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "unpleasant; causing difficulties or harm"
+  },
+  {
+    "id": "5658C256",
+    "term": "bag",
+    "pronunciation": "/bæg/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a container made of paper, plastic, leather, etc., used for carrying things"
+  },
+  {
+    "id": "2F273BA4",
+    "term": "ball",
+    "pronunciation": "/bɔːl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a round object that you throw, kick, or hit in a game, or something with this shape"
+  },
+  {
+    "id": "91F5D0B6",
+    "term": "banana",
+    "pronunciation": "/bəˈnæn.ə/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a long curved fruit with a yellow skin"
+  },
+  {
+    "id": "21573A8F",
+    "term": "band",
+    "pronunciation": "/bænd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a group of musicians who play modern music together"
+  },
+  {
+    "id": "78CB1F51",
+    "term": "bank",
+    "pronunciation": "/bæŋk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an organization or place where you can borrow money, save money, etc."
+  },
+  {
+    "id": "035835C6",
+    "term": "back",
+    "pronunciation": "/bæk/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "where someone or something was before"
+  },
+  {
+    "id": "F4F1CDB1",
+    "term": "baseball",
+    "pronunciation": "/ˈbeɪs.bɔːl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "(the ball used in) a game played by two teams of nine players, in which a player hits a ball with a bat and tries to run around the four corners of a large square area of the field before the other team returns the ball"
+  },
+  {
+    "id": "DFA4E41F",
+    "term": "basketball",
+    "pronunciation": "/ˈbæs.kɪtˌbɔːl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a game in which two teams try to score points by throwing a ball through a high net, or the ball used in this game"
+  },
+  {
+    "id": "961C615D",
+    "term": "bat",
+    "pronunciation": "/bæt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a specially shaped piece of wood used for hitting the ball in many games"
+  },
+  {
+    "id": "F7EDDB46",
+    "term": "bath",
+    "pronunciation": "/bæθ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "when you wash your body in a bathtub"
+  },
+  {
+    "id": "F3CA8471",
+    "term": "bathroom",
+    "pronunciation": "/ˈbæθ.ruːm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a room with a sink, a toilet, and often a bathtub and/or shower"
+  },
+  {
+    "id": "0B1C9DCA",
+    "term": "there is/there are/there was, etc.",
+    "pronunciation": "/biː/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to say that someone or something exists"
+  },
+  {
+    "id": "55A79A73",
+    "term": "I am Spanish/a teacher, etc.",
+    "pronunciation": "/biː/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to give information about someone or something"
+  },
+  {
+    "id": "49B6BB2E",
+    "term": "be",
+    "pronunciation": "/biː/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "used to say or ask where someone or something is"
+  },
+  {
+    "id": "27536888",
+    "term": "beach",
+    "pronunciation": "/biːtʃ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an area of sand or small stones next to the ocean or a lake"
+  },
+  {
+    "id": "2B18B966",
+    "term": "bean",
+    "pronunciation": "/biːn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a seed, or the pod containing seeds, of various climbing plants, eaten as a vegetable"
+  },
+  {
+    "id": "AA193AD4",
+    "term": "cake",
+    "pronunciation": "/keɪk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a sweet food made from flour, butter, sugar and eggs, mixed together and baked"
+  },
+  {
+    "id": "7F99F5EF",
+    "term": "question",
+    "pronunciation": "/ˈkwes.tʃən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a sentence or phrase used to find out information"
+  },
+  {
+    "id": "71075A61",
+    "term": "beard",
+    "pronunciation": "/bɪrd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the hair that grows on a man's chin"
+  },
+  {
+    "id": "8AC3C643",
+    "term": "fruit",
+    "pronunciation": "/fruːt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "something such as an apple or orange that grows on a tree or a bush, contains seeds, and can be eaten as food"
+  },
+  {
+    "id": "316134B8",
+    "term": "beautiful",
+    "pronunciation": "/ˈbjuːt̬.ɪ.fəl/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "very attractive"
+  },
+  {
+    "id": "70A9229F",
+    "term": "beautiful",
+    "pronunciation": "/ˈbjuːt̬.ɪ.fəl/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "very pleasant"
+  },
+  {
+    "id": "91FB28D1",
+    "term": "because",
+    "pronunciation": "/bɪˈkɑz/",
+    "part_of_speech": "conjunction",
+    "level": "A1",
+    "definition": "used to give a reason for something"
+  },
+  {
+    "id": "93F30932",
+    "term": "close",
+    "pronunciation": "/kloʊz/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "near in distance, position or time"
+  },
+  {
+    "id": "99326A4B",
+    "term": "close",
+    "pronunciation": "/kloʊz/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "If something closes, it moves so that it is not open, and if you close something, you make it move so that it is not open."
+  },
+  {
+    "id": "663F790A",
+    "term": "bed",
+    "pronunciation": "/bed/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of furniture that you sleep on"
+  },
+  {
+    "id": "8209403D",
+    "term": "down",
+    "pronunciation": "/dɑʊn/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "moving from above and onto a surface"
+  },
+  {
+    "id": "C4597CCB",
+    "term": "bedroom",
+    "pronunciation": "/ˈbed.ruːm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a room used for sleeping in"
+  },
+  {
+    "id": "5C15469C",
+    "term": "die",
+    "pronunciation": "/dɑɪ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to stop living or existing"
+  },
+  {
+    "id": "BB185E1C",
+    "term": "beer",
+    "pronunciation": "/bɪr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an alcoholic drink made from grain"
+  },
+  {
+    "id": "7D09E73B",
+    "term": "world",
+    "pronunciation": "/wɜrld/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the Earth and all the people, places and things on it"
+  },
+  {
+    "id": "E40E3BCD",
+    "term": "weather",
+    "pronunciation": "/ˈweð.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the conditions in the air above the Earth such as wind, rain or temperature, especially at a particular time over a particular area"
+  },
+  {
+    "id": "436359F7",
+    "term": "before",
+    "pronunciation": "/bəˈfɔːr/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "earlier than something or someone"
+  },
+  {
+    "id": "34022BFF",
+    "term": "dark",
+    "pronunciation": "/dɑrk/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "nearer to black than white in color"
+  },
+  {
+    "id": "9806C6D6",
+    "term": "find",
+    "pronunciation": "/fɑɪnd/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to discover something or someone that you have been searching for"
+  },
+  {
+    "id": "C22AA31C",
+    "term": "friend",
+    "pronunciation": "/frend/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "someone who you know well and like"
+  },
+  {
+    "id": "4754F5EF",
+    "term": "carry",
+    "pronunciation": "/ˈkær.i/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to hold something or someone with your hands, arms, or on your back and take them from one place to another"
+  },
+  {
+    "id": "FEE2F267",
+    "term": "catch",
+    "pronunciation": "/kætʃ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to take hold of something, especially something that is moving through the air"
+  },
+  {
+    "id": "96436F90",
+    "term": "catch",
+    "pronunciation": "/kætʃ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to get on a bus, train, etc. in order to travel somewhere"
+  },
+  {
+    "id": "3793981D",
+    "term": "begin",
+    "pronunciation": "/bɪˈgɪn/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to start to happen"
+  },
+  {
+    "id": "1018CED8",
+    "term": "green",
+    "pronunciation": "/griːn/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "being the same color as grass"
+  },
+  {
+    "id": "E9C54EA9",
+    "term": "hard",
+    "pronunciation": "/hɑrd/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "with a lot of physical or mental effort"
+  },
+  {
+    "id": "DC0E9665",
+    "term": "hard",
+    "pronunciation": "/hɑrd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "difficult to understand or do"
+  },
+  {
+    "id": "D87F81A3",
+    "term": "behind",
+    "pronunciation": "/bəˈhɑɪnd/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "at or to the back of someone or something"
+  },
+  {
+    "id": "0AD8F13A",
+    "term": "closed",
+    "pronunciation": "/kloʊzd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not open"
+  },
+  {
+    "id": "3291E1CA",
+    "term": "closed",
+    "pronunciation": "/kloʊzd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not open for business"
+  },
+  {
+    "id": "4D0BD3AB",
+    "term": "door",
+    "pronunciation": "/dɔːr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a flat object, often fixed at one edge, that is used to close the entrance of something such as a room or building, or the entrance itself"
+  },
+  {
+    "id": "9AFAAF58",
+    "term": "hungry",
+    "pronunciation": "/ˈhʌŋ.gri/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "wanting or needing food"
+  },
+  {
+    "id": "C47637E5",
+    "term": "need to do sth",
+    "pronunciation": "/niːd/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "If you need to do something, it is necessary to do it."
+  },
+  {
+    "id": "AE5EA40F",
+    "term": "need",
+    "pronunciation": "/niːd/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "If you need something, you must have it."
+  },
+  {
+    "id": "31F4ABE5",
+    "term": "eye",
+    "pronunciation": "/ɑɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "one of the two organs in your face, which you use to see with"
+  },
+  {
+    "id": "DD383E78",
+    "term": "boat",
+    "pronunciation": "/boʊt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a vehicle for traveling on water"
+  },
+  {
+    "id": "F02F7B4A",
+    "term": "into",
+    "pronunciation": "/ˈɪn.tuː/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "toward the inside or middle of something"
+  },
+  {
+    "id": "87D19AAC",
+    "term": "twenty",
+    "pronunciation": "/ˈtwen.t̬i/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 20"
+  },
+  {
+    "id": "85942BE6",
+    "term": "go shopping",
+    "pronunciation": "/goʊ/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to visit stores in order to buy things"
+  },
+  {
+    "id": "CB1AF149",
+    "term": "go",
+    "pronunciation": "/goʊ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to move or travel somewhere"
+  },
+  {
+    "id": "7E3EBF2A",
+    "term": "go",
+    "pronunciation": "/goʊ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to move or travel somewhere in order to do something"
+  },
+  {
+    "id": "77F7B07E",
+    "term": "something",
+    "pronunciation": "/ˈsʌm.θɪŋ/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to refer to a thing when you do not know what it is or when it is not important what it is"
+  },
+  {
+    "id": "36158675",
+    "term": "head",
+    "pronunciation": "/hed/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the part of the body above the neck that contains your brain, eyes, nose, mouth, ears, etc., and on which your hair grows"
+  },
+  {
+    "id": "8B5C8073",
+    "term": "key",
+    "pronunciation": "/kiː/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of metal cut into a particular shape that is used for opening or closing the lock of a door, starting a car engine, etc."
+  },
+  {
+    "id": "6ED4646D",
+    "term": "not",
+    "pronunciation": "/nɑt/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to form a negative phrase after verbs like \"\"\"be,\"\"\" \"\"\"can,\"\"\" \"\"\"have,\"\"\" \"\"\"'will,\"\"\" \"\"\"must,\"\"\" etc., usually used in the short form \"\"\"n't\"\"\" in speech"
+  },
+  {
+    "id": "BBF22B40",
+    "term": "not",
+    "pronunciation": "/nɑt/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to give the next word or group of words a negative meaning"
+  },
+  {
+    "id": "126D4707",
+    "term": "water",
+    "pronunciation": "/ˈwɔːt̬.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the clear liquid that falls from the sky as rain and is necessary for animal and plant life"
+  },
+  {
+    "id": "D101233E",
+    "term": "look",
+    "pronunciation": "/lʊk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to turn your eyes in the direction of something or someone so that you can see them"
+  },
+  {
+    "id": "36813818",
+    "term": "look",
+    "pronunciation": "/lʊk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to try to find someone or something"
+  },
+  {
+    "id": "D63BA823",
+    "term": "below",
+    "pronunciation": "/bəˈloʊ/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "in a lower position than someone or something else"
+  },
+  {
+    "id": "1152A4BB",
+    "term": "make",
+    "pronunciation": "/meɪk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to produce or create something"
+  },
+  {
+    "id": "A9082CA4",
+    "term": "no",
+    "pronunciation": "/noʊ/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "something that you say in order to disagree, give a negative answer, or say that something is not true"
+  },
+  {
+    "id": "8760CC8C",
+    "term": "no",
+    "pronunciation": "/noʊ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "not any"
+  },
+  {
+    "id": "CE797F14",
+    "term": "business",
+    "pronunciation": "/ˈbɪz.nəs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the activity of buying and selling goods and services"
+  },
+  {
+    "id": "2365B860",
+    "term": "use",
+    "pronunciation": "/juːz/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "If you use something, you do something with it for a particular purpose."
+  },
+  {
+    "id": "379B33D4",
+    "term": "two",
+    "pronunciation": "/tuː/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 2"
+  },
+  {
+    "id": "CE1025F8",
+    "term": "nine",
+    "pronunciation": "/nɑɪn/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 9"
+  },
+  {
+    "id": "A9932BB0",
+    "term": "only",
+    "pronunciation": "/ˈoʊn.li/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "not more than a particular size or amount"
+  },
+  {
+    "id": "2BB1F4A7",
+    "term": "only",
+    "pronunciation": "/ˈoʊn.li/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "used to mean that there are not any others"
+  },
+  {
+    "id": "D1D66A22",
+    "term": "practice",
+    "pronunciation": "/ˈpræk.təs/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to do or play something regularly or repeatedly in order to become skilled at it"
+  },
+  {
+    "id": "8ED218DF",
+    "term": "poor",
+    "pronunciation": "/pʊr/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "having very little money or few possessions"
+  },
+  {
+    "id": "B1E19510",
+    "term": "say",
+    "pronunciation": "/seɪ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to speak words"
+  },
+  {
+    "id": "EEB913F9",
+    "term": "short",
+    "pronunciation": "/ʃɔːrt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "small in length, distance or height"
+  },
+  {
+    "id": "6E873ADA",
+    "term": "short",
+    "pronunciation": "/ʃɔːrt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "continuing for a small amount of time"
+  },
+  {
+    "id": "CBE37B14",
+    "term": "slow",
+    "pronunciation": "/sloʊ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "doing, moving or happening without much speed"
+  },
+  {
+    "id": "004EEA27",
+    "term": "snow",
+    "pronunciation": "/snoʊ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "soft white pieces of frozen water that fall from the sky when the weather is cold"
+  },
+  {
+    "id": "FE1C5679",
+    "term": "better",
+    "pronunciation": "/ˈbet̬.ər/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "healthy, or less ill than before"
+  },
+  {
+    "id": "1C4B1376",
+    "term": "better",
+    "pronunciation": "/ˈbet̬.ər/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "(comparative of good) of a higher quality, more effective, or more enjoyable than something or someone else"
+  },
+  {
+    "id": "E09194B6",
+    "term": "between",
+    "pronunciation": "/bəˈtwiːn/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "in the space that separates two places, people or objects"
+  },
+  {
+    "id": "6872E823",
+    "term": "between",
+    "pronunciation": "/bəˈtwiːn/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "in the period of time that separates two different events or times"
+  },
+  {
+    "id": "9F783C0F",
+    "term": "between",
+    "pronunciation": "/bəˈtwiːn/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "involving two or more groups of people"
+  },
+  {
+    "id": "C31D704A",
+    "term": "under",
+    "pronunciation": "/ˈʌn.dər/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "below something, or below the surface of something"
+  },
+  {
+    "id": "90254EB1",
+    "term": "up",
+    "pronunciation": "/ʌp/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "vertical or as straight as possible"
+  },
+  {
+    "id": "BB1C9650",
+    "term": "wrong",
+    "pronunciation": "/rɑŋ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not correct"
+  },
+  {
+    "id": "0B417535",
+    "term": "year",
+    "pronunciation": "/jɪr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of twelve months, especially from January 1st to December 31st"
+  },
+  {
+    "id": "E4712B25",
+    "term": "be ... years old",
+    "pronunciation": "/jɪr/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to be a particular age"
+  },
+  {
+    "id": "386A29D0",
+    "term": "big",
+    "pronunciation": "/bɪg/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "large in size or amount"
+  },
+  {
+    "id": "737CDD34",
+    "term": "bike",
+    "pronunciation": "/bɑɪk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a bicycle"
+  },
+  {
+    "id": "4B444CE0",
+    "term": "bird",
+    "pronunciation": "/bɜrd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an animal that has wings and feathers, and is usually able to fly"
+  },
+  {
+    "id": "EF9DE242",
+    "term": "birthday",
+    "pronunciation": "/ˈbɜrθ.deɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the day on which someone was born, or the same date each year"
+  },
+  {
+    "id": "6E4F5675",
+    "term": "black",
+    "pronunciation": "/blæk/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "being the darkest color there is, like the color of coal or of a very dark night"
+  },
+  {
+    "id": "9DE1203F",
+    "term": "blouse",
+    "pronunciation": "/blɑʊz/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of clothing for women that is like a shirt"
+  },
+  {
+    "id": "417C60DB",
+    "term": "blue",
+    "pronunciation": "/bluː/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "being the same color as the sky when there are no clouds"
+  },
+  {
+    "id": "47FC0C61",
+    "term": "body",
+    "pronunciation": "/ˈbɑd.i/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the whole physical structure that forms a person or animal"
+  },
+  {
+    "id": "41B632A2",
+    "term": "bookcase",
+    "pronunciation": "/ˈbʊk.keɪs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of furniture with shelves for putting books on"
+  },
+  {
+    "id": "5A6BD809",
+    "term": "bookstore",
+    "pronunciation": "/ˈbʊk.stɔːr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a store where books are sold"
+  },
+  {
+    "id": "3AD1D507",
+    "term": "boot",
+    "pronunciation": "/buːt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a strong shoe that covers your foot and part of your leg"
+  },
+  {
+    "id": "EC2A2CB3",
+    "term": "boring",
+    "pronunciation": "/ˈbɔːr.ɪŋ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not interesting or exciting"
+  },
+  {
+    "id": "19B778BE",
+    "term": "both",
+    "pronunciation": "/boʊθ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to talk about two people or things"
+  },
+  {
+    "id": "216A6432",
+    "term": "bottom",
+    "pronunciation": "/ˈbɑt̬.əm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the lowest part of something"
+  },
+  {
+    "id": "2663430C",
+    "term": "box",
+    "pronunciation": "/bɑks/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a square or rectangular container"
+  },
+  {
+    "id": "C81409B2",
+    "term": "boy",
+    "pronunciation": "/bɔɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a male child or young man"
+  },
+  {
+    "id": "0752795B",
+    "term": "bread",
+    "pronunciation": "/bred/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a basic food made by mixing flour, water and sometimes yeast"
+  },
+  {
+    "id": "61FF52CD",
+    "term": "breakfast",
+    "pronunciation": "/ˈbrek.fəst/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the food you eat in the morning after you wake up"
+  },
+  {
+    "id": "5B842466",
+    "term": "light",
+    "pronunciation": "/lɑɪt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "Light colors are pale."
+  },
+  {
+    "id": "DB22C0BF",
+    "term": "brother",
+    "pronunciation": "/ˈbrʌð.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a man or boy with the same parents as another person"
+  },
+  {
+    "id": "3C36F8A9",
+    "term": "brown",
+    "pronunciation": "/brɑʊn/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "being the color of chocolate or soil"
+  },
+  {
+    "id": "218A2F66",
+    "term": "bus",
+    "pronunciation": "/bʌs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a large vehicle in which people are driven from one place to another"
+  },
+  {
+    "id": "7FF69286",
+    "term": "busy",
+    "pronunciation": "/ˈbɪz.i/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "If you are busy, you are working hard, or giving your attention to a particular thing"
+  },
+  {
+    "id": "EC20F6F9",
+    "term": "busy",
+    "pronunciation": "/ˈbɪz.i/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "A busy place is full of activity or people."
+  },
+  {
+    "id": "F47F7A87",
+    "term": "butter",
+    "pronunciation": "/ˈbʌt̬.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a pale yellow food made from cream that you put on bread or use in cooking"
+  },
+  {
+    "id": "9987CB1D",
+    "term": "buy",
+    "pronunciation": "/bɑɪ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to get something by paying money for it"
+  },
+  {
+    "id": "7103158F",
+    "term": "bye",
+    "pronunciation": "/bɑɪ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "goodbye"
+  },
+  {
+    "id": "896779DD",
+    "term": "mouth",
+    "pronunciation": "/mɑʊθ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the part of the face that is used for eating and speaking"
+  },
+  {
+    "id": "D8741A39",
+    "term": "café",
+    "pronunciation": "/kæˈfeɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a small restaurant where you can buy drinks and light meals"
+  },
+  {
+    "id": "5EEE726A",
+    "term": "day",
+    "pronunciation": "/deɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of 24 hours"
+  },
+  {
+    "id": "02C44DE5",
+    "term": "camera",
+    "pronunciation": "/ˈkæm.rə/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a device for taking photographs or making films or television programs"
+  },
+  {
+    "id": "394B81BC",
+    "term": "can",
+    "pronunciation": "/kæn/",
+    "part_of_speech": "modal verb",
+    "level": "A1",
+    "definition": "to be able to"
+  },
+  {
+    "id": "CD3FFE97",
+    "term": "can",
+    "pronunciation": "/kæn/",
+    "part_of_speech": "modal verb",
+    "level": "A1",
+    "definition": "used in polite offers of help"
+  },
+  {
+    "id": "96975251",
+    "term": "can",
+    "pronunciation": "/kæn/",
+    "part_of_speech": "modal verb",
+    "level": "A1",
+    "definition": "used to request something"
+  },
+  {
+    "id": "248E36CC",
+    "term": "can",
+    "pronunciation": "/kæn/",
+    "part_of_speech": "modal verb",
+    "level": "A1",
+    "definition": "used to talk about what is possible"
+  },
+  {
+    "id": "9146737B",
+    "term": "cannot",
+    "pronunciation": "/ˈkæn.ɑt/",
+    "part_of_speech": "modal verb",
+    "level": "A1",
+    "definition": "the negative form of \"\"\"can\"\"\""
+  },
+  {
+    "id": "A7851332",
+    "term": "help",
+    "pronunciation": "/help/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to make it easier for someone to do something by doing part of the work yourself"
+  },
+  {
+    "id": "AC35B906",
+    "term": "tell",
+    "pronunciation": "/tel/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to say something to someone, usually giving them information"
+  },
+  {
+    "id": "3032ED5C",
+    "term": "wait",
+    "pronunciation": "/weɪt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to stay in a place until someone or something arrives, or until someone or something is ready for you"
+  },
+  {
+    "id": "32B383C3",
+    "term": "work",
+    "pronunciation": "/wɜrk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "something you do as a job to earn money"
+  },
+  {
+    "id": "A42B4645",
+    "term": "work",
+    "pronunciation": "/wɜrk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the place where you go to do your job"
+  },
+  {
+    "id": "EB92E57D",
+    "term": "work",
+    "pronunciation": "/wɜrk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to do a job, especially the job you do to earn money"
+  },
+  {
+    "id": "E173288F",
+    "term": "car",
+    "pronunciation": "/kɑr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a road vehicle with an engine, four wheels, and seats for a small number of people"
+  },
+  {
+    "id": "4E757ACC",
+    "term": "cat",
+    "pronunciation": "/kæt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a small animal with fur, four legs and a tail that is kept as a pet"
+  },
+  {
+    "id": "585D8B91",
+    "term": "CD",
+    "pronunciation": "/ˌsiːˈdiː/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "compact disc: a small disc on which music or information is recorded"
+  },
+  {
+    "id": "34DC31B7",
+    "term": "CD player",
+    "pronunciation": "/siːˈdiːˌpleɪ.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a machine that is used for playing music CDs"
+  },
+  {
+    "id": "4558A373",
+    "term": "cell phone",
+    "pronunciation": "/ˈsel.foʊn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a telephone that you can carry everywhere with you"
+  },
+  {
+    "id": "D99CEA1B",
+    "term": "chair",
+    "pronunciation": "/tʃer/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a seat for one person, that has a back, usually four legs, and sometimes two arms"
+  },
+  {
+    "id": "66D8F710",
+    "term": "subject",
+    "pronunciation": "/ˈsʌb.dʒɪkt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an area of knowledge which is studied in school or college"
+  },
+  {
+    "id": "6E354B32",
+    "term": "cheap",
+    "pronunciation": "/tʃiːp/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "costing little money or less than is usual or expected"
+  },
+  {
+    "id": "1F37E91D",
+    "term": "check",
+    "pronunciation": "/tʃek/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to put a mark by something written to show it is correct or has been done"
+  },
+  {
+    "id": "3B40CAC3",
+    "term": "cheese",
+    "pronunciation": "/tʃiːz/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a food made from milk, which can either be firm or soft and is usually yellow or white in color"
+  },
+  {
+    "id": "1F135A82",
+    "term": "child",
+    "pronunciation": "/tʃɑɪld/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a boy or girl who is not yet an adult, or a son or daughter of any age"
+  },
+  {
+    "id": "AE24536F",
+    "term": "chocolate",
+    "pronunciation": "/ˈtʃɑk.lət/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a sweet, usually brown, food that is prepared and sold in a block, or a small sweet made from this"
+  },
+  {
+    "id": "0BD479F2",
+    "term": "choose",
+    "pronunciation": "/tʃuːz/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to decide what you want from two or more things or possibilities"
+  },
+  {
+    "id": "552A3FB1",
+    "term": "city",
+    "pronunciation": "/ˈsɪt̬.i/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a large town"
+  },
+  {
+    "id": "E387276C",
+    "term": "class",
+    "pronunciation": "/klæs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a group of students who have lessons together"
+  },
+  {
+    "id": "65BADF2B",
+    "term": "class",
+    "pronunciation": "/klæs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of time in which students are taught something"
+  },
+  {
+    "id": "7650C481",
+    "term": "classroom",
+    "pronunciation": "/ˈklæs.ruːm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a room in a school or college where groups of students are taught"
+  },
+  {
+    "id": "4FC15364",
+    "term": "clean",
+    "pronunciation": "/kliːn/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not dirty"
+  },
+  {
+    "id": "CC211A42",
+    "term": "clean",
+    "pronunciation": "/kliːn/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to remove dirt from something"
+  },
+  {
+    "id": "11D7A937",
+    "term": "clothes",
+    "pronunciation": "/kloʊðz/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "items such as shirts, dresses and trousers that you wear on your body"
+  },
+  {
+    "id": "8B26ACC5",
+    "term": "coat",
+    "pronunciation": "/koʊt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an outer piece of clothing with sleeves that is worn over other clothes, usually for warmth"
+  },
+  {
+    "id": "775A3A8F",
+    "term": "coffee",
+    "pronunciation": "/ˈkɔː.fi/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a popular hot drink with a strong smell that is made from dark beans, or the beans or crushed beans from which this drink is made"
+  },
+  {
+    "id": "206C4C34",
+    "term": "coffee shop",
+    "pronunciation": "/ˈkɑ.fiˌʃɑp/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a small restaurant where you can buy drinks and light meals, or a store that sells coffee drinks and snacks"
+  },
+  {
+    "id": "AC3800A5",
+    "term": "cold",
+    "pronunciation": "/koʊld/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "having a low temperature"
+  },
+  {
+    "id": "2D26D5BB",
+    "term": "color",
+    "pronunciation": "/ˈkʌl.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "red, blue, green, yellow, etc."
+  },
+  {
+    "id": "091806AB",
+    "term": "color",
+    "pronunciation": "/ˈkʌl.ər/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to make something a particular color"
+  },
+  {
+    "id": "716BAD4E",
+    "term": "come",
+    "pronunciation": "/kʌm/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to move or travel toward a person who is speaking or the place that they are speaking about"
+  },
+  {
+    "id": "69CCD816",
+    "term": "come",
+    "pronunciation": "/kʌm/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to go somewhere with the person who is speaking"
+  },
+  {
+    "id": "A2CD3E04",
+    "term": "come",
+    "pronunciation": "/kʌm/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to arrive somewhere"
+  },
+  {
+    "id": "6F2A777D",
+    "term": "come from swh/sth",
+    "pronunciation": "/kʌm/",
+    "part_of_speech": "phrasal verb",
+    "level": "A1",
+    "definition": "to be born, gotten from, or made in a particular place"
+  },
+  {
+    "id": "AC5ECEEC",
+    "term": "computer",
+    "pronunciation": "/kəmˈpjuːt̬.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an electronic machine that can store and arrange large amounts of information"
+  },
+  {
+    "id": "1AE6FEA4",
+    "term": "conversation",
+    "pronunciation": "/ˌkɑn.vərˈseɪ.ʃən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a talk between two or more people, usually an informal one"
+  },
+  {
+    "id": "8FE58722",
+    "term": "cook",
+    "pronunciation": "/kʊk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to prepare food and usually heat it"
+  },
+  {
+    "id": "200C9217",
+    "term": "country",
+    "pronunciation": "/ˈkʌn.tri/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an area of land that has its own government, army, etc."
+  },
+  {
+    "id": "8F5DF323",
+    "term": "cow",
+    "pronunciation": "/kɑʊ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a large female farm animal kept to produce meat and milk"
+  },
+  {
+    "id": "B3AC8737",
+    "term": "cracker",
+    "pronunciation": "/ˈkræk.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a flat, dry, small baked bread"
+  },
+  {
+    "id": "FC639945",
+    "term": "credit card",
+    "pronunciation": "/ˈkred.ɪtˌkɑrd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a small plastic card that allows you to buy something and pay for it later"
+  },
+  {
+    "id": "AB025103",
+    "term": "cross",
+    "pronunciation": "/krɔːs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a written mark (x), usually used to show where something is, or that something has not been written correctly"
+  },
+  {
+    "id": "1A1B22A1",
+    "term": "cup",
+    "pronunciation": "/kʌp/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a small round container, often with a handle, used for drinking tea, coffee, etc."
+  },
+  {
+    "id": "D3E85385",
+    "term": "dad",
+    "pronunciation": "/dæd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a father"
+  },
+  {
+    "id": "57E2C7BB",
+    "term": "dance",
+    "pronunciation": "/dæns/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "when you move your feet and body to music"
+  },
+  {
+    "id": "E884385C",
+    "term": "dance",
+    "pronunciation": "/dæns/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to move your feet and body to the rhythm of music"
+  },
+  {
+    "id": "8EB68769",
+    "term": "dancing",
+    "pronunciation": "/ˈdæn.sɪŋ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the activity of moving your feet and your body to the rhythm of music"
+  },
+  {
+    "id": "85BE127D",
+    "term": "date",
+    "pronunciation": "/deɪt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a particular day of a month or year"
+  },
+  {
+    "id": "77E45943",
+    "term": "daughter",
+    "pronunciation": "/ˈdɔːt̬.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "your female child"
+  },
+  {
+    "id": "40093F5A",
+    "term": "dear",
+    "pronunciation": "/dɪr/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "used at the beginning of a letter to greet the person you are writing to"
+  },
+  {
+    "id": "214BB937",
+    "term": "December",
+    "pronunciation": "/dɪˈsem.bər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the twelfth and last month of the year"
+  },
+  {
+    "id": "55D31392",
+    "term": "desk",
+    "pronunciation": "/desk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a type of table that you can work at, often one with drawers"
+  },
+  {
+    "id": "A7905E73",
+    "term": "dictionary",
+    "pronunciation": "/ˈdɪk.ʃəˌner.i/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a book that contains a list of words in alphabetical order with their meanings explained or written in another language, or a similar product for use on a computer"
+  },
+  {
+    "id": "602D9115",
+    "term": "different",
+    "pronunciation": "/ˈdɪf.rənt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not the same"
+  },
+  {
+    "id": "C3BC6B82",
+    "term": "difficult",
+    "pronunciation": "/ˈdɪf.ə.kəlt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "when something is not easy to do or understand"
+  },
+  {
+    "id": "A0A1499B",
+    "term": "dining room",
+    "pronunciation": "/ˈdɑɪ.nɪŋˌruːm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a room in which meals are eaten"
+  },
+  {
+    "id": "5E0656F2",
+    "term": "dinner",
+    "pronunciation": "/ˈdɪn.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the main meal of the day that people usually eat in the evening"
+  },
+  {
+    "id": "95102ADC",
+    "term": "do",
+    "pronunciation": "/duː/",
+    "part_of_speech": "auxiliary verb",
+    "level": "A1",
+    "definition": "used with another verb to form questions and negative phrases"
+  },
+  {
+    "id": "B9E7553F",
+    "term": "do the cleaning/cooking, etc.",
+    "pronunciation": "/duː/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to perform a job in the house"
+  },
+  {
+    "id": "3F8F708A",
+    "term": "what does sb do?",
+    "pronunciation": "/duː/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to ask what someone's job is"
+  },
+  {
+    "id": "BE9074EC",
+    "term": "do",
+    "pronunciation": "/duː/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to perform an action"
+  },
+  {
+    "id": "C6BD34C2",
+    "term": "doctor",
+    "pronunciation": "/ˈdɑk.tər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a person whose job is to treat people who are ill or hurt"
+  },
+  {
+    "id": "CA4FC96F",
+    "term": "dog",
+    "pronunciation": "/dɑg/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an animal with fur, four legs and a tail, especially kept by people as a pet or to hunt or guard buildings"
+  },
+  {
+    "id": "B6987A60",
+    "term": "doll",
+    "pronunciation": "/dɑl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a child's toy that looks like a small person or baby"
+  },
+  {
+    "id": "0B5C910A",
+    "term": "dollar",
+    "pronunciation": "/ˈdɑl.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the unit of money used in the US, Canada, Australia, New Zealand and some other countries"
+  },
+  {
+    "id": "51F72A28",
+    "term": "Don't forget...",
+    "pronunciation": "/fərˈget/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "remember"
+  },
+  {
+    "id": "0D45C16D",
+    "term": "Don't worry (about sth)",
+    "pronunciation": "/ˈwɜr.i/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to tell someone that they do not need to think about something or do anything about something"
+  },
+  {
+    "id": "94090E71",
+    "term": "draw",
+    "pronunciation": "/drɔː/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to make a picture of something or someone with a pencil or pen"
+  },
+  {
+    "id": "BF7F987A",
+    "term": "dress",
+    "pronunciation": "/dres/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of clothing for women or girls which covers the top half of the body and hangs down over the legs"
+  },
+  {
+    "id": "136E2858",
+    "term": "drink",
+    "pronunciation": "/drɪŋk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a liquid or an amount of liquid which is taken into the body through the mouth"
+  },
+  {
+    "id": "8917D59C",
+    "term": "drink",
+    "pronunciation": "/drɪŋk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to take liquid into the body through the mouth"
+  },
+  {
+    "id": "AE5A8C7D",
+    "term": "drive",
+    "pronunciation": "/drɑɪv/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to move or travel on land in a motor vehicle, especially as the person controlling the vehicle's movement"
+  },
+  {
+    "id": "8EE829DE",
+    "term": "DVD",
+    "pronunciation": "/ˌdiː.viːˈdiː/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "digital versatile disc or digital video disc: a disc used for storing and playing music, films or information"
+  },
+  {
+    "id": "BE5F2AD5",
+    "term": "each",
+    "pronunciation": "/iːtʃ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "referring to every one in a group of two or more things or people when they are considered separately"
+  },
+  {
+    "id": "D180A9D5",
+    "term": "each",
+    "pronunciation": "/iːtʃ/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "every one in a group of two or more things or people when they are considered separately"
+  },
+  {
+    "id": "5EA991B6",
+    "term": "ear",
+    "pronunciation": "/ɪr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "one of the two body parts on your head that you hear with"
+  },
+  {
+    "id": "39EE23A7",
+    "term": "early",
+    "pronunciation": "/ˈɜr.li/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "near the beginning of a period of time, process, etc."
+  },
+  {
+    "id": "653CD259",
+    "term": "easy",
+    "pronunciation": "/ˈiː.zi/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not difficult"
+  },
+  {
+    "id": "0D5E3B5B",
+    "term": "eat",
+    "pronunciation": "/iːt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to put food into your mouth and then swallow it"
+  },
+  {
+    "id": "D8BD9382",
+    "term": "eat",
+    "pronunciation": "/iːt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to have a meal"
+  },
+  {
+    "id": "86B915BC",
+    "term": "eight",
+    "pronunciation": "/eɪt/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 8"
+  },
+  {
+    "id": "E03B90D2",
+    "term": "eighteen",
+    "pronunciation": "/eɪtˈtiːn/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 18"
+  },
+  {
+    "id": "A74C1882",
+    "term": "eleven",
+    "pronunciation": "/ɪˈlev.ən/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 11"
+  },
+  {
+    "id": "C5B99D9D",
+    "term": "e-mail",
+    "pronunciation": "/ˈiː.meɪl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the system for using computers to send messages over the Internet"
+  },
+  {
+    "id": "C9B6ACFB",
+    "term": "e-mail",
+    "pronunciation": "/ˈiː.meɪl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a message or document sent electronically"
+  },
+  {
+    "id": "2A69F953",
+    "term": "enjoy",
+    "pronunciation": "/enˈdʒɔɪ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to get pleasure from something"
+  },
+  {
+    "id": "88DADB42",
+    "term": "eraser",
+    "pronunciation": "/əˈreɪ.sər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a small piece of rubber that is used to remove pencil marks from paper"
+  },
+  {
+    "id": "EC032FB4",
+    "term": "evening",
+    "pronunciation": "/ˈiːv.nɪŋ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the part of the day between the afternoon and the night"
+  },
+  {
+    "id": "FC895796",
+    "term": "every",
+    "pronunciation": "/ˈev.ri/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "each one of a group of people or things"
+  },
+  {
+    "id": "79030ADC",
+    "term": "every",
+    "pronunciation": "/ˈev.ri/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to show that something is repeated regularly"
+  },
+  {
+    "id": "F4994BA7",
+    "term": "excited",
+    "pronunciation": "/ɪkˈsɑɪt̬.əd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "feeling very happy and enthusiastic"
+  },
+  {
+    "id": "3A68DF54",
+    "term": "exciting",
+    "pronunciation": "/ɪkˈsɑɪt̬.ɪŋ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "making you feel very happy and enthusiastic"
+  },
+  {
+    "id": "D66A4C82",
+    "term": "Excuse me",
+    "pronunciation": "/ɪkˈskjuːz/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to politely get someone's attention"
+  },
+  {
+    "id": "9B862A25",
+    "term": "expensive",
+    "pronunciation": "/ɪkˈspen.sɪv/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "costing a lot of money"
+  },
+  {
+    "id": "ACBB7A38",
+    "term": "factory",
+    "pronunciation": "/ˈfæk.tə.ri/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a building or set of buildings where large amounts of goods are made using machines"
+  },
+  {
+    "id": "9A38943D",
+    "term": "family",
+    "pronunciation": "/ˈfæm.ə.li/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a group of people who are related to each other, such as a mother, a father, and their children"
+  },
+  {
+    "id": "586FDA4A",
+    "term": "famous",
+    "pronunciation": "/ˈfeɪ.məs/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "known and recognized by many people"
+  },
+  {
+    "id": "81C55ACF",
+    "term": "farm",
+    "pronunciation": "/fɑrm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an area of land with fields and buildings, used for growing crops and/or keeping animals as a business"
+  },
+  {
+    "id": "CD16A08B",
+    "term": "fast",
+    "pronunciation": "/fæst/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "moving or happening quickly, or able to move or happen quickly"
+  },
+  {
+    "id": "4B0317FA",
+    "term": "fat",
+    "pronunciation": "/fæt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "Someone who is fat weighs too much."
+  },
+  {
+    "id": "CD3DDEC1",
+    "term": "father",
+    "pronunciation": "/ˈfɑð.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "your male parent"
+  },
+  {
+    "id": "59BEE792",
+    "term": "favorite",
+    "pronunciation": "/ˈfeɪ.və.rɪt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "best liked or most enjoyed"
+  },
+  {
+    "id": "44849798",
+    "term": "February",
+    "pronunciation": "/ˈfeb.ju.er.i/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the second month of the year, after January and before March"
+  },
+  {
+    "id": "DF1594E6",
+    "term": "feel",
+    "pronunciation": "/fiːl/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to experience something physical or emotional"
+  },
+  {
+    "id": "F5823E29",
+    "term": "fifteen",
+    "pronunciation": "/fɪfˈtiːn/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 15"
+  },
+  {
+    "id": "36B2D221",
+    "term": "finish",
+    "pronunciation": "/ˈfɪn.ɪʃ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to complete something, or come to the end of an activity"
+  },
+  {
+    "id": "03963A54",
+    "term": "finish",
+    "pronunciation": "/ˈfɪn.ɪʃ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to end"
+  },
+  {
+    "id": "98AF3EDB",
+    "term": "fish",
+    "pronunciation": "/fɪʃ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an animal that lives only in water and swims using its tail and fins"
+  },
+  {
+    "id": "7ACA84C7",
+    "term": "fish",
+    "pronunciation": "/fɪʃ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "fish eaten as food"
+  },
+  {
+    "id": "A580C2D9",
+    "term": "five",
+    "pronunciation": "/fɑɪv/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 5"
+  },
+  {
+    "id": "F60E7114",
+    "term": "floor",
+    "pronunciation": "/flɔːr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a surface that you walk on inside a building"
+  },
+  {
+    "id": "573EDAD0",
+    "term": "flower",
+    "pronunciation": "/ˈflɑʊ.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the attractive, colored part of a plant where the seeds grow"
+  },
+  {
+    "id": "0ED0F233",
+    "term": "fly",
+    "pronunciation": "/flɑɪ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to travel through the air in an aircraft"
+  },
+  {
+    "id": "AE6EB70E",
+    "term": "food",
+    "pronunciation": "/fuːd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "something that people and animals eat, or plants absorb, to keep them alive"
+  },
+  {
+    "id": "24BD5AA2",
+    "term": "foot",
+    "pronunciation": "/fʊt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "one of the two flat parts on the ends of your legs that you stand on"
+  },
+  {
+    "id": "10466389",
+    "term": "football",
+    "pronunciation": "/ˈfʊt.bɔːl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an oval ball made of leather or plastic and filled with air, used in playing football"
+  },
+  {
+    "id": "446379FE",
+    "term": "for",
+    "pronunciation": "/fɔːr/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "intended to be given to or used by someone or something"
+  },
+  {
+    "id": "53B2BCFD",
+    "term": "for",
+    "pronunciation": "/fɔːr/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to show an amount of time or distance"
+  },
+  {
+    "id": "39AAAB10",
+    "term": "for example",
+    "pronunciation": "/fɔːr/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to give an example of the type of thing you mean"
+  },
+  {
+    "id": "EEC271BB",
+    "term": "four",
+    "pronunciation": "/fɔːr/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 4"
+  },
+  {
+    "id": "8684142B",
+    "term": "fourteen",
+    "pronunciation": "/fɔːrtˈtiːn/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 14"
+  },
+  {
+    "id": "5C062147",
+    "term": "Friday",
+    "pronunciation": "/ˈfrɑɪ.deɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the day of the week after Thursday and before Saturday"
+  },
+  {
+    "id": "967F7028",
+    "term": "from",
+    "pronunciation": "/frɑm/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to show the origin of someone or something"
+  },
+  {
+    "id": "B02C0B40",
+    "term": "from",
+    "pronunciation": "/frɑm/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to show the place where someone or something starts"
+  },
+  {
+    "id": "6BD2410E",
+    "term": "from",
+    "pronunciation": "/frɑm/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to show the time when something starts or the time when it was made or first existed"
+  },
+  {
+    "id": "7A471464",
+    "term": "from",
+    "pronunciation": "/frɑm/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to show the distance between two places"
+  },
+  {
+    "id": "1FE7927A",
+    "term": "fun",
+    "pronunciation": "/fʌn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "enjoyment or pleasure, or something that gives you enjoyment or pleasure"
+  },
+  {
+    "id": "11EAC9B5",
+    "term": "funny",
+    "pronunciation": "/ˈfʌn.i/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "making you smile or laugh"
+  },
+  {
+    "id": "3C644273",
+    "term": "game",
+    "pronunciation": "/geɪm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an entertaining activity or sport that people play"
+  },
+  {
+    "id": "EB7EFB32",
+    "term": "garden",
+    "pronunciation": "/ˈgɑrd.ən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of land belonging to a house, where flowers and other plants are grown"
+  },
+  {
+    "id": "596F2896",
+    "term": "get here/there/home/to work, etc.",
+    "pronunciation": "/get/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to reach or arrive at a particular place"
+  },
+  {
+    "id": "A65DFF2B",
+    "term": "get a bus/train/taxi, etc.",
+    "pronunciation": "/get/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to travel somewhere in a bus, train, taxi or other vehicle"
+  },
+  {
+    "id": "77A14535",
+    "term": "get",
+    "pronunciation": "/get/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to receive or be given something"
+  },
+  {
+    "id": "BA126F3E",
+    "term": "get",
+    "pronunciation": "/get/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to obtain or buy something"
+  },
+  {
+    "id": "88E2F3B6",
+    "term": "get (sb) up",
+    "pronunciation": "/get/",
+    "part_of_speech": "phrasal verb",
+    "level": "A1",
+    "definition": "to wake up and get out of bed, or make someone do this"
+  },
+  {
+    "id": "933351BC",
+    "term": "girl",
+    "pronunciation": "/ˈgɜrl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a female child or young woman"
+  },
+  {
+    "id": "0423B3F8",
+    "term": "give",
+    "pronunciation": "/gɪv/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to provide someone with something"
+  },
+  {
+    "id": "79BB2B7A",
+    "term": "glass",
+    "pronunciation": "/glæs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a hard transparent substance that objects such as windows and bottles are made of"
+  },
+  {
+    "id": "1E11D5D6",
+    "term": "glass",
+    "pronunciation": "/glæs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a container made of glass that is used for drinking"
+  },
+  {
+    "id": "4841881E",
+    "term": "glasses",
+    "pronunciation": "/ˈglæs.ɪz/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of equipment with two transparent parts that you wear in front of your eyes to help you see better"
+  },
+  {
+    "id": "42B099CF",
+    "term": "good afternoon",
+    "pronunciation": "/ˌgʊd.æf.tərˈnuːn /",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "something you say to someone when you meet them in the afternoon"
+  },
+  {
+    "id": "241AF03B",
+    "term": "goodbye",
+    "pronunciation": "/gʊdˈbɑɪ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "something you say when you leave someone or when they leave you"
+  },
+  {
+    "id": "B476E8A3",
+    "term": "good evening",
+    "pronunciation": "/ˌgʊdˈiːv.nɪŋ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "something you say to greet someone in the evening"
+  },
+  {
+    "id": "60B4C0EE",
+    "term": "good morning",
+    "pronunciation": "/ˌgʊdˈmɔr.nɪŋ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "something you say to greet someone when you meet them in the morning"
+  },
+  {
+    "id": "D6BB95DC",
+    "term": "good night",
+    "pronunciation": "/ˌgʊdˈnɑɪt/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "something you say when you leave someone or they leave you in the evening, or when you are going to bed"
+  },
+  {
+    "id": "998CE72C",
+    "term": "go out",
+    "pronunciation": "/goʊ/",
+    "part_of_speech": "phrasal verb",
+    "level": "A1",
+    "definition": "to leave a place in order to go somewhere else"
+  },
+  {
+    "id": "8C5F7965",
+    "term": "grass",
+    "pronunciation": "/græs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a common plant with narrow green leaves that grows close to the ground"
+  },
+  {
+    "id": "8279E06B",
+    "term": "gray",
+    "pronunciation": "/greɪ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "being a color that is a mixture of black and white"
+  },
+  {
+    "id": "8AF73C60",
+    "term": "group",
+    "pronunciation": "/gruːp/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a number of people or things that are together in one place or are connected"
+  },
+  {
+    "id": "2A6A0A85",
+    "term": "group",
+    "pronunciation": "/gruːp/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a number of people who play music together, especially pop music"
+  },
+  {
+    "id": "21914AC2",
+    "term": "guitar",
+    "pronunciation": "/gəˈtɑr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a musical instrument with six strings and a long neck which is usually made of wood, and which is played by pulling or hitting the strings with the fingers"
+  },
+  {
+    "id": "470C615F",
+    "term": "hair",
+    "pronunciation": "/her/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the thin, thread-like parts that grow on your head"
+  },
+  {
+    "id": "26A96603",
+    "term": "happy",
+    "pronunciation": "/ˈhæp.i/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "feeling, showing, or causing pleasure"
+  },
+  {
+    "id": "96201E1B",
+    "term": "happy birthday/New Year, etc.",
+    "pronunciation": "/ˈhæp.i/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "something friendly that you say to someone on a special day or holiday"
+  },
+  {
+    "id": "9ACEC535",
+    "term": "hat",
+    "pronunciation": "/hæt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "something you wear to cover your head, for fashion or protection"
+  },
+  {
+    "id": "C807E0E4",
+    "term": "have",
+    "pronunciation": "/hæv/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to own or possess"
+  },
+  {
+    "id": "F6715914",
+    "term": "have",
+    "pronunciation": "/hæv/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "If you have a particular illness, you suffer from it."
+  },
+  {
+    "id": "A463F283",
+    "term": "have",
+    "pronunciation": "/hæv/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to eat or drink something"
+  },
+  {
+    "id": "1F76A972",
+    "term": "he",
+    "pronunciation": "/hiː/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to refer to a man, boy, or male animal that has already been mentioned"
+  },
+  {
+    "id": "E85D6297",
+    "term": "hear",
+    "pronunciation": "/hɪr/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to be aware of a sound through your ears"
+  },
+  {
+    "id": "C0555301",
+    "term": "hello",
+    "pronunciation": "/heˈloʊ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "used to start a conversation on the phone"
+  },
+  {
+    "id": "822E298F",
+    "term": "hello",
+    "pronunciation": "/heˈloʊ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "used to greet someone"
+  },
+  {
+    "id": "3596089D",
+    "term": "her",
+    "pronunciation": "/hɜr/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "belonging to or relating to someone female who has already been talked about"
+  },
+  {
+    "id": "3DF115E6",
+    "term": "her",
+    "pronunciation": "/hɜr/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used after a verb or preposition to refer to someone female who has already been talked about"
+  },
+  {
+    "id": "6E171F76",
+    "term": "here",
+    "pronunciation": "/hɪr/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "in the place where you are"
+  },
+  {
+    "id": "B7CC4272",
+    "term": "hi",
+    "pronunciation": "/hɑɪ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "hello"
+  },
+  {
+    "id": "5E4EB7F8",
+    "term": "him",
+    "pronunciation": "/hɪm/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used after a verb or preposition to refer to someone male who has already been talked about"
+  },
+  {
+    "id": "3645F715",
+    "term": "his",
+    "pronunciation": "/hɪz/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "belonging to or relating to someone male who has already been talked about"
+  },
+  {
+    "id": "ECF2EE46",
+    "term": "holiday",
+    "pronunciation": "/ˈhɑl.əˌdeɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a day for celebration when many people are allowed to stay away from work or school"
+  },
+  {
+    "id": "7B531D52",
+    "term": "homework",
+    "pronunciation": "/ˈhoʊm.wɜrk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "work that teachers give students to do at home"
+  },
+  {
+    "id": "3671FE30",
+    "term": "horse",
+    "pronunciation": "/hɔːrs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a large animal with four legs, which people ride on or use for carrying things or pulling vehicles"
+  },
+  {
+    "id": "9BC1E258",
+    "term": "hospital",
+    "pronunciation": "/ˈhɑsˌpɪt̬.əl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a place where ill or injured people go to be treated by doctors and nurses"
+  },
+  {
+    "id": "CD0800FB",
+    "term": "hotel",
+    "pronunciation": "/hoʊˈtel/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a place where you pay to stay when you are away from home"
+  },
+  {
+    "id": "6754B6FC",
+    "term": "house",
+    "pronunciation": "/hɑʊs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a building where people live, usually one family or group"
+  },
+  {
+    "id": "287C211A",
+    "term": "how",
+    "pronunciation": "/hɑʊ/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to ask or talk about quantity, size, age, etc."
+  },
+  {
+    "id": "8693D388",
+    "term": "How are you?",
+    "pronunciation": "/hɑʊ/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to ask someone if they are well and happy"
+  },
+  {
+    "id": "6E283FD4",
+    "term": "husband",
+    "pronunciation": "/ˈhʌz.bənd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the man a woman is married to"
+  },
+  {
+    "id": "EAFECA70",
+    "term": "I",
+    "pronunciation": "/ɑɪ/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used when the person speaking or writing is the subject of the verb"
+  },
+  {
+    "id": "46143FFF",
+    "term": "ice cream",
+    "pronunciation": "/ˈɑɪs.kriːm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a sweet, frozen food made from milk or cream, sugar, and a flavor"
+  },
+  {
+    "id": "F56F612B",
+    "term": "important",
+    "pronunciation": "/ɪmˈpɔːrt.ənt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "valuable, useful or necessary"
+  },
+  {
+    "id": "AE80548B",
+    "term": "in",
+    "pronunciation": "/ɪn/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "inside or toward the inside of a container, place or area"
+  },
+  {
+    "id": "9B6E9E33",
+    "term": "in",
+    "pronunciation": "/ɪn/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "during part or all of a period of time"
+  },
+  {
+    "id": "E8E09730",
+    "term": "inside",
+    "pronunciation": "/ɪnˈsɑɪd/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "in or into a room, building, container, etc."
+  },
+  {
+    "id": "9398AA9E",
+    "term": "interesting",
+    "pronunciation": "/ˈɪn.trə.stɪŋ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "Someone or something that is interesting keeps your attention because they are unusual, exciting, or have a lot of ideas."
+  },
+  {
+    "id": "6AC12066",
+    "term": "invite",
+    "pronunciation": "/ɪnˈvɑɪt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to ask someone to come to a social event or to spend time with you socially"
+  },
+  {
+    "id": "EE483B00",
+    "term": "it",
+    "pronunciation": "/ɪt/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to refer to the thing, situation, or idea that has already been talked about"
+  },
+  {
+    "id": "0CC7C108",
+    "term": "it",
+    "pronunciation": "/ɪt/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used as the subject or object of a verb to represent a phrase at the end of the sentence"
+  },
+  {
+    "id": "77C89E71",
+    "term": "rain",
+    "pronunciation": "/reɪn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "water that falls from the sky in small drops"
+  },
+  {
+    "id": "CB5B9B23",
+    "term": "it rains/it is raining",
+    "pronunciation": "/reɪn/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "If it rains, water falls from the sky in small drops."
+  },
+  {
+    "id": "1EAE2B46",
+    "term": "its",
+    "pronunciation": "/ɪts/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "belonging to or relating to something that has already been mentioned"
+  },
+  {
+    "id": "C2F7DCA2",
+    "term": "jacket",
+    "pronunciation": "/ˈdʒæk.ɪt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a short coat"
+  },
+  {
+    "id": "C21F1008",
+    "term": "January",
+    "pronunciation": "/ˈdʒæn.jʊˌer.i/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the first month of the year, after December and before February"
+  },
+  {
+    "id": "D63CE008",
+    "term": "jeans",
+    "pronunciation": "/dʒiːnz/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "pants made of denim, a strong cotton material, which are worn informally"
+  },
+  {
+    "id": "AB650E3F",
+    "term": "job",
+    "pronunciation": "/dʒɑb/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the regular work that you do in order to earn money"
+  },
+  {
+    "id": "E9F4FEA7",
+    "term": "juice",
+    "pronunciation": "/dʒuːs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the liquid that comes from fruit or vegetables"
+  },
+  {
+    "id": "B9A76411",
+    "term": "July",
+    "pronunciation": "/dʒʊˈlɑɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the seventh month of the year, after June and before August"
+  },
+  {
+    "id": "8B10A566",
+    "term": "June",
+    "pronunciation": "/dʒuːn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the sixth month of the year, after May and before July"
+  },
+  {
+    "id": "C470D95E",
+    "term": "kick",
+    "pronunciation": "/kɪk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to hit someone or something with the foot, or to move the feet and legs suddenly and violently"
+  },
+  {
+    "id": "1ADC3019",
+    "term": "kitchen",
+    "pronunciation": "/ˈkɪtʃ.ən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a room where food is kept, prepared, and cooked and where the dishes are washed"
+  },
+  {
+    "id": "42B41623",
+    "term": "knife",
+    "pronunciation": "/nɑɪf/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a sharp tool, usually with a metal blade and a handle, used for cutting and spreading food or other substances, or as a weapon"
+  },
+  {
+    "id": "060CF1FE",
+    "term": "language",
+    "pronunciation": "/ˈlæŋ.gwɪdʒ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a type of communication used by the people of a particular country or by a particular group of people"
+  },
+  {
+    "id": "49EDDFA4",
+    "term": "learn",
+    "pronunciation": "/lɜrn/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to get knowledge or skill in a new subject or activity"
+  },
+  {
+    "id": "0FD33625",
+    "term": "leave",
+    "pronunciation": "/liːv/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to go away from a place or a situation, either permanently or for a temporary period"
+  },
+  {
+    "id": "CFBFD08C",
+    "term": "leg",
+    "pronunciation": "/leg/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "one of the parts of the body of a human or animal that is used for standing and walking"
+  },
+  {
+    "id": "6505C96E",
+    "term": "lesson",
+    "pronunciation": "/ˈles.ən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of time when a teacher teaches people"
+  },
+  {
+    "id": "887B30EE",
+    "term": "letter",
+    "pronunciation": "/ˈlet̬.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a written message that you send to someone, usually in the mail"
+  },
+  {
+    "id": "E6B9BCE3",
+    "term": "Would you like...?",
+    "pronunciation": "/lɑɪk/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to ask someone if they want something"
+  },
+  {
+    "id": "00859D83",
+    "term": "would like sth/to do sth",
+    "pronunciation": "/lɑɪk/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to say that you want something"
+  },
+  {
+    "id": "F7CF562F",
+    "term": "like",
+    "pronunciation": "/lɑɪk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to enjoy something or feel that someone or something is pleasant"
+  },
+  {
+    "id": "FA6FC2D8",
+    "term": "listen",
+    "pronunciation": "/ˈlɪs.ən/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to give attention to someone or something in order to hear them"
+  },
+  {
+    "id": "F33CF4F4",
+    "term": "live in/at, etc.",
+    "pronunciation": "/lɪv/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to have your home somewhere"
+  },
+  {
+    "id": "FE047A82",
+    "term": "living room",
+    "pronunciation": "/ˈlɪv.ɪŋˌrʊm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the room in a house where people sit to relax and, for example, watch television"
+  },
+  {
+    "id": "C55963E1",
+    "term": "lunch",
+    "pronunciation": "/lʌntʃ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a meal that is eaten in the middle of the day"
+  },
+  {
+    "id": "B12BD76A",
+    "term": "man",
+    "pronunciation": "/mæn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an adult male human being"
+  },
+  {
+    "id": "1359EB4E",
+    "term": "March",
+    "pronunciation": "/mɑrtʃ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the third month of the year, after February and before April"
+  },
+  {
+    "id": "6F64137C",
+    "term": "May",
+    "pronunciation": "/meɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the fifth month of the year, after April and before June"
+  },
+  {
+    "id": "B3E7004C",
+    "term": "me",
+    "pronunciation": "/miː/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used after a verb or preposition to refer to the person who is speaking or writing"
+  },
+  {
+    "id": "BF05A1C3",
+    "term": "meal",
+    "pronunciation": "/miːl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an occasion when food is eaten, or the food which is eaten on such an occasion"
+  },
+  {
+    "id": "7ACB8587",
+    "term": "meat",
+    "pronunciation": "/miːt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "muscles and other soft parts of animals, used as food"
+  },
+  {
+    "id": "F1ECCC73",
+    "term": "meet",
+    "pronunciation": "/miːt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to see and speak to someone for the first time"
+  },
+  {
+    "id": "58A014B2",
+    "term": "meet",
+    "pronunciation": "/miːt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to come to the same place as someone else by arrangement or by chance"
+  },
+  {
+    "id": "616BEA96",
+    "term": "message",
+    "pronunciation": "/ˈmes.ɪdʒ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of writing or spoken information that one person gives to another"
+  },
+  {
+    "id": "901AFB44",
+    "term": "milk",
+    "pronunciation": "/mɪlk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a white liquid produced by women and other female animals, such as cows"
+  },
+  {
+    "id": "5D2D03B0",
+    "term": "Miss",
+    "pronunciation": "/mɪs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a title for a girl or woman who is not married, used before her family name or full name"
+  },
+  {
+    "id": "6ECECC4D",
+    "term": "mom",
+    "pronunciation": "/mɑm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a mother"
+  },
+  {
+    "id": "94881D88",
+    "term": "Monday",
+    "pronunciation": "/ˈmʌn.deɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the day of the week after Sunday and before Tuesday"
+  },
+  {
+    "id": "0ACD5098",
+    "term": "money",
+    "pronunciation": "/ˈmʌn.i/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the coins or bills that are used to buy things"
+  },
+  {
+    "id": "B8C279C7",
+    "term": "month",
+    "pronunciation": "/mʌnθ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of approximately four weeks"
+  },
+  {
+    "id": "A65248F6",
+    "term": "month",
+    "pronunciation": "/mʌnθ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "one of the twelve periods of time that a year is divided into"
+  },
+  {
+    "id": "41DB5AD1",
+    "term": "mother",
+    "pronunciation": "/ˈmʌð.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a female parent"
+  },
+  {
+    "id": "30C854FE",
+    "term": "movie",
+    "pronunciation": "/ˈmuː.vi/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a story shown in moving pictures, shown in a theater or on television"
+  },
+  {
+    "id": "7121523C",
+    "term": "the movies",
+    "pronunciation": "/ˈmuː.vi/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "the showing of movies or the business of making movies"
+  },
+  {
+    "id": "21D60DF6",
+    "term": "movie theater",
+    "pronunciation": "/ˈmuː.viˌθiː.ət̬.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a building where you go to watch movies"
+  },
+  {
+    "id": "197B7DAC",
+    "term": "Mr.",
+    "pronunciation": "/ˈmɪs.tər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a title for a man, used before his family name or full name"
+  },
+  {
+    "id": "9DF778EE",
+    "term": "Mrs.",
+    "pronunciation": "/ˈmɪs.ɪz/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a title for a married woman, used before her family name or full name"
+  },
+  {
+    "id": "DF82196D",
+    "term": "much",
+    "pronunciation": "/mʌtʃ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "In questions, \"\"\"much\"\"\" is used to ask about the amount of something."
+  },
+  {
+    "id": "EB6EE96D",
+    "term": "very much",
+    "pronunciation": "/mʌtʃ/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "a large amount or degree"
+  },
+  {
+    "id": "AA2F4C1B",
+    "term": "museum",
+    "pronunciation": "/mjʊˈziː.əm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a building where you can look at important objects connected with art, history, or science"
+  },
+  {
+    "id": "6571BB10",
+    "term": "music",
+    "pronunciation": "/ˈmjuː.zɪk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a pattern of sounds that is made by playing instruments or singing, or a recording of this"
+  },
+  {
+    "id": "48FECAE6",
+    "term": "my",
+    "pronunciation": "/maɪ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "belonging to or relating to the person who is speaking or writing"
+  },
+  {
+    "id": "5CA90A91",
+    "term": "nationality",
+    "pronunciation": "/ˌnæʃ.əˈnæl.ət̬.i/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "If you have United States/British/Swiss, etc. nationality, you are legally a member of that country."
+  },
+  {
+    "id": "B2156308",
+    "term": "never",
+    "pronunciation": "/ˈnev.ər/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "not ever, not one time"
+  },
+  {
+    "id": "728232ED",
+    "term": "new",
+    "pronunciation": "/nuː/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "recently made or having started to exist recently"
+  },
+  {
+    "id": "3420D071",
+    "term": "new",
+    "pronunciation": "/nuː/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "different from before"
+  },
+  {
+    "id": "0183B6E4",
+    "term": "new",
+    "pronunciation": "/nuː/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not known or discovered before"
+  },
+  {
+    "id": "AAA71957",
+    "term": "newspaper",
+    "pronunciation": "/ˈnuːzˌpeɪ.pər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "large, folded sheets of paper which are printed with the news and sold every day or every week"
+  },
+  {
+    "id": "6671AE40",
+    "term": "next week/year/Monday, etc.",
+    "pronunciation": "/nekst/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "the week/year/Monday, etc. that follows the present one"
+  },
+  {
+    "id": "FAA848F6",
+    "term": "nice",
+    "pronunciation": "/nɑɪs/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "pleasant or attractive"
+  },
+  {
+    "id": "D54530E0",
+    "term": "nice",
+    "pronunciation": "/nɑɪs/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "kind and friendly"
+  },
+  {
+    "id": "1A8EDF01",
+    "term": "nineteen",
+    "pronunciation": "/nɑɪnˈtiːn/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 19"
+  },
+  {
+    "id": "1CBECEE0",
+    "term": "noise",
+    "pronunciation": "/nɔɪz/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a sound, often a loud, unpleasant sound"
+  },
+  {
+    "id": "F727169A",
+    "term": "nose",
+    "pronunciation": "/noʊz/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the part of your face through which you breathe and smell"
+  },
+  {
+    "id": "64795631",
+    "term": "note",
+    "pronunciation": "/noʊt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a short letter"
+  },
+  {
+    "id": "9CDF6DA1",
+    "term": "very",
+    "pronunciation": "/ˈver.i/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used emphasize an adjective or adverb"
+  },
+  {
+    "id": "ADB828E2",
+    "term": "not very good/tall/happy, etc.",
+    "pronunciation": "/ˈver.i/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "not good, tall, happy, etc."
+  },
+  {
+    "id": "9DF0C258",
+    "term": "very much",
+    "pronunciation": "/ˈver.i/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to a large amount or degree"
+  },
+  {
+    "id": "929499C2",
+    "term": "November",
+    "pronunciation": "/noʊˈvem.bər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the eleventh month of the year, after October and before December"
+  },
+  {
+    "id": "87F5A2A1",
+    "term": "October",
+    "pronunciation": "/ɑkˈtoʊ.bər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the tenth month of the year, after September and before November"
+  },
+  {
+    "id": "50AF1EDD",
+    "term": "of",
+    "pronunciation": "/ɑv/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "belonging or relating to someone or something"
+  },
+  {
+    "id": "AD9BE60E",
+    "term": "of",
+    "pronunciation": "/ɑv/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "containing"
+  },
+  {
+    "id": "49C42AFD",
+    "term": "of",
+    "pronunciation": "/ɑv/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used after words that show an amount"
+  },
+  {
+    "id": "F3CD940E",
+    "term": "of",
+    "pronunciation": "/ɑv/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used with numbers, ages and dates"
+  },
+  {
+    "id": "CBA8A665",
+    "term": "of course",
+    "pronunciation": "/ɑv/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to say \"\"\"yes\"\"\" and emphasize your answer"
+  },
+  {
+    "id": "C5165ED2",
+    "term": "often",
+    "pronunciation": "/ˈɔː.fən/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "many times or regularly"
+  },
+  {
+    "id": "C9296D98",
+    "term": "oh",
+    "pronunciation": "/oʊ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "used to express different emotions, such as surprise, disappointment and pleasure, often as a reaction to something someone has said"
+  },
+  {
+    "id": "E3F89BC4",
+    "term": "oh",
+    "pronunciation": "/oʊ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "introduces an idea that you have just thought of, or something that you have just remembered"
+  },
+  {
+    "id": "77EAE657",
+    "term": "OK",
+    "pronunciation": "/oʊˈkeɪ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not sick, damaged, upset, etc."
+  },
+  {
+    "id": "969BABE4",
+    "term": "OK",
+    "pronunciation": "/oʊˈkeɪ/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "used when agreeing to do something or when allowing someone to do something"
+  },
+  {
+    "id": "ABB265C1",
+    "term": "old",
+    "pronunciation": "/oʊld/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "having lived or existed for many years"
+  },
+  {
+    "id": "39682ED4",
+    "term": "old",
+    "pronunciation": "/oʊld/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "used to describe or ask about someone's age"
+  },
+  {
+    "id": "05648A31",
+    "term": "one/two/three, etc. o'clock",
+    "pronunciation": "//",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used after the numbers one to twelve to mean exactly that hour when you tell the time"
+  },
+  {
+    "id": "8168B46F",
+    "term": "open",
+    "pronunciation": "/ˈoʊ.pən/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "available for business or serving customers"
+  },
+  {
+    "id": "84622138",
+    "term": "open",
+    "pronunciation": "/ˈoʊ.pən/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to move something to a position that is not closed, or to make something change to a position that is not closed"
+  },
+  {
+    "id": "2A1BC83B",
+    "term": "or",
+    "pronunciation": "/ɔːr/",
+    "part_of_speech": "conjunction",
+    "level": "A1",
+    "definition": "used between possibilities, or before the last in a list of possibilities"
+  },
+  {
+    "id": "586BD7CD",
+    "term": "orange",
+    "pronunciation": "/ˈɑr.ɪndʒ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "being a color that is a mixture of red and yellow"
+  },
+  {
+    "id": "DD4FE55B",
+    "term": "orange",
+    "pronunciation": "/ˈɑr.ɪndʒ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a round, sweet fruit with a thick skin and a center that is divided into many equal parts"
+  },
+  {
+    "id": "D9F1169D",
+    "term": "other",
+    "pronunciation": "/ˈʌð.ər/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "as well as the person or thing already mentioned"
+  },
+  {
+    "id": "B73F314B",
+    "term": "our",
+    "pronunciation": "/ɑʊr/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "belonging to or relating to us"
+  },
+  {
+    "id": "30A39262",
+    "term": "outside",
+    "pronunciation": "/ɑʊtˈsɑɪd/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "not inside a building"
+  },
+  {
+    "id": "F49D1CA5",
+    "term": "page",
+    "pronunciation": "/peɪdʒ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of paper in a book, magazine, etc., or one side of a piece of paper"
+  },
+  {
+    "id": "91F21B3A",
+    "term": "paint",
+    "pronunciation": "/peɪnt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a colored liquid that you put on a surface such as a wall to decorate it, or that you use to produce a picture"
+  },
+  {
+    "id": "1683DF66",
+    "term": "paint",
+    "pronunciation": "/peɪnt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to produce a picture of something or someone using paint"
+  },
+  {
+    "id": "83D62C41",
+    "term": "pair",
+    "pronunciation": "/per/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "two people who are doing something together"
+  },
+  {
+    "id": "A3FB9E5D",
+    "term": "pants",
+    "pronunciation": "/pænts/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of clothing that covers the lower part of the body and has a separate part for each leg"
+  },
+  {
+    "id": "C207CB5F",
+    "term": "paper",
+    "pronunciation": "/ˈpeɪ.pər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "thin, flat material used for writing or drawing on, covering things in, etc."
+  },
+  {
+    "id": "E14F0022",
+    "term": "parent",
+    "pronunciation": "/ˈpær.ənt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "your mother or father"
+  },
+  {
+    "id": "2635F6D0",
+    "term": "park",
+    "pronunciation": "/pɑrk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a large area of grass and trees in a city or town, where people can walk and enjoy themselves"
+  },
+  {
+    "id": "78A25FFF",
+    "term": "part",
+    "pronunciation": "/pɑrt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece that combines with other pieces to form the whole of something"
+  },
+  {
+    "id": "C7474D97",
+    "term": "party",
+    "pronunciation": "/ˈpɑrt̬.i/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a social event where people enjoy themselves by talking, eating, drinking, and dancing"
+  },
+  {
+    "id": "7D432E95",
+    "term": "past",
+    "pronunciation": "/pæst/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to say what the time is when it is a particular number of minutes after an hour"
+  },
+  {
+    "id": "7E6C0892",
+    "term": "pay",
+    "pronunciation": "/peɪ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to give money to someone for something you are buying or using, or because you owe them money"
+  },
+  {
+    "id": "61C3473E",
+    "term": "pen",
+    "pronunciation": "/pen/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a long, thin object that you use to write or draw in ink"
+  },
+  {
+    "id": "89F06DD4",
+    "term": "pencil",
+    "pronunciation": "/ˈpen.səl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a long, thin, wooden object with a black or colored point that you write or draw with"
+  },
+  {
+    "id": "A61D645C",
+    "term": "people",
+    "pronunciation": "/ˈpiː.pəl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "more than one person"
+  },
+  {
+    "id": "03486563",
+    "term": "person",
+    "pronunciation": "/ˈpɜr.sən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a human being"
+  },
+  {
+    "id": "300773BB",
+    "term": "pet",
+    "pronunciation": "/pet/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an animal that someone keeps in their home"
+  },
+  {
+    "id": "A2CE7C37",
+    "term": "phone",
+    "pronunciation": "/foʊn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of electronic equipment that you use to talk to someone who is in another place"
+  },
+  {
+    "id": "EC184F90",
+    "term": "photo",
+    "pronunciation": "/ˈfoʊt̬.oʊ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a picture produced using a camera"
+  },
+  {
+    "id": "6567547E",
+    "term": "picnic",
+    "pronunciation": "/ˈpɪk.nɪk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a meal that you make and take with you somewhere to eat outside"
+  },
+  {
+    "id": "DE840815",
+    "term": "picture",
+    "pronunciation": "/ˈpɪk.tʃər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a drawing, painting, or photograph of something or someone"
+  },
+  {
+    "id": "B8F740C3",
+    "term": "pig",
+    "pronunciation": "/pɪg/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a large pink, brown or black farm animal with short legs and a curved tail, kept for its meat"
+  },
+  {
+    "id": "5CF76B56",
+    "term": "pizza",
+    "pronunciation": "/ˈpiːt.sə/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a large circle of flat bread baked with cheese, tomatoes, and sometimes meat and vegetables spread on top"
+  },
+  {
+    "id": "F2DF634F",
+    "term": "plane",
+    "pronunciation": "/pleɪn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a vehicle that flies and has at least one engine and wings"
+  },
+  {
+    "id": "E1A22C14",
+    "term": "plant",
+    "pronunciation": "/plænt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a living thing that grows in the soil or water and has leaves and roots, especially one that is smaller than a tree"
+  },
+  {
+    "id": "A84F5767",
+    "term": "plate",
+    "pronunciation": "/pleɪt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a flat, round object that is used for putting food on"
+  },
+  {
+    "id": "2A32F1A6",
+    "term": "play",
+    "pronunciation": "/pleɪ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "When children play, they spend time enjoying themselves with toys and games."
+  },
+  {
+    "id": "6EB1238D",
+    "term": "play",
+    "pronunciation": "/pleɪ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "When you play a sport or game, you take part in it."
+  },
+  {
+    "id": "C66BD64D",
+    "term": "player",
+    "pronunciation": "/ˈpleɪ.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "someone who takes part in a game or sport"
+  },
+  {
+    "id": "9A1EF191",
+    "term": "p.m.",
+    "pronunciation": "/ˌpiːˈem/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to refer to a time after midday but before midnight"
+  },
+  {
+    "id": "F2B2E586",
+    "term": "potato",
+    "pronunciation": "/pəˈteɪt̬.oʊ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a round vegetable with a brown, yellow, or red skin that grows in the ground"
+  },
+  {
+    "id": "F93934FF",
+    "term": "problem",
+    "pronunciation": "/ˈprɑb.ləm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a situation that causes difficulties and that needs to be dealt with"
+  },
+  {
+    "id": "157D8E3E",
+    "term": "put sth down/in/on, etc.",
+    "pronunciation": "/pʊt/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to move something to a place or position"
+  },
+  {
+    "id": "F51CFFA6",
+    "term": "quarter",
+    "pronunciation": "/ˈkwɔːr.t̬.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of 15 minutes before or after the hour"
+  },
+  {
+    "id": "8244D3F7",
+    "term": "quick",
+    "pronunciation": "/kwɪk/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "doing something fast"
+  },
+  {
+    "id": "8669F565",
+    "term": "radio",
+    "pronunciation": "/ˈreɪd.iːˌoʊ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of equipment used for listening to sound broadcasts"
+  },
+  {
+    "id": "2B5B4DFF",
+    "term": "the radio",
+    "pronunciation": "/ˈreɪd.iːˌoʊ/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "the programs that you hear when you listen to the radio"
+  },
+  {
+    "id": "FD27B30A",
+    "term": "read",
+    "pronunciation": "/riːd/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to look at words and understand what they mean"
+  },
+  {
+    "id": "D4015F72",
+    "term": "reading",
+    "pronunciation": "/ˈriːd.ɪŋ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the activity or skill of getting information from books, newspapers, etc."
+  },
+  {
+    "id": "E77500D7",
+    "term": "ready",
+    "pronunciation": "/ˈred.i/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "prepared for doing something"
+  },
+  {
+    "id": "6E097712",
+    "term": "really",
+    "pronunciation": "/ˈriː.li/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "very or very much"
+  },
+  {
+    "id": "EB5C10BD",
+    "term": "red",
+    "pronunciation": "/red/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "being the same color as blood"
+  },
+  {
+    "id": "089E918C",
+    "term": "refrigerator",
+    "pronunciation": "/rɪˈfrɪdʒ.əˌreɪt̬.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a large container that uses electricity to keep food cold"
+  },
+  {
+    "id": "B3BCD622",
+    "term": "remember",
+    "pronunciation": "/rəˈmem.bər/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "If you remember a fact or something from the past, you keep it in your mind, or bring it back into your mind."
+  },
+  {
+    "id": "75AEB04C",
+    "term": "restaurant",
+    "pronunciation": "/ˈres.tər.ɑnt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a place where you can buy and eat a meal"
+  },
+  {
+    "id": "AFD21D98",
+    "term": "rice",
+    "pronunciation": "/rɑɪs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "small grains from a plant that are cooked and eaten"
+  },
+  {
+    "id": "AD832A7F",
+    "term": "ride",
+    "pronunciation": "/rɑɪd/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to travel by sitting on a horse, bicycle, or motorcycle and controlling it"
+  },
+  {
+    "id": "99185535",
+    "term": "right",
+    "pronunciation": "/rɑɪt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "correct or true"
+  },
+  {
+    "id": "6040ED1A",
+    "term": "river",
+    "pronunciation": "/ˈrɪv.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a long, natural area of water that flows across land and into the ocean, a lake, another river, etc."
+  },
+  {
+    "id": "C841DD6C",
+    "term": "road",
+    "pronunciation": "/roʊd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a route between places, usually with a hard surface built for vehicles to drive on"
+  },
+  {
+    "id": "D5AE604B",
+    "term": "Road",
+    "pronunciation": "/roʊd/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used in the name of a road as part of an address"
+  },
+  {
+    "id": "541C7E51",
+    "term": "room",
+    "pronunciation": "/ruːm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a part of the inside of a building that is separated from other parts by walls, floor and ceiling"
+  },
+  {
+    "id": "08A4C4DE",
+    "term": "sad",
+    "pronunciation": "/sæd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "unhappy or making you feel unhappy"
+  },
+  {
+    "id": "063874C1",
+    "term": "salt",
+    "pronunciation": "/sɔːlt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a white substance used to add flavor to food"
+  },
+  {
+    "id": "00576AAC",
+    "term": "sandwich",
+    "pronunciation": "/ˈsæn.dwɪtʃ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "two slices of bread with meat, cheese, etc. between them"
+  },
+  {
+    "id": "84935ED2",
+    "term": "Saturday",
+    "pronunciation": "/ˈsæt̬.ər.deɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the day of the week after Friday and before Sunday"
+  },
+  {
+    "id": "E23C4FF0",
+    "term": "second",
+    "pronunciation": "/ˈsek.ənd/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "immediately after the first and before any others"
+  },
+  {
+    "id": "9332A7BF",
+    "term": "see you",
+    "pronunciation": "/siː/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used for saying goodbye to someone"
+  },
+  {
+    "id": "78D78102",
+    "term": "see you later/soon/tomorrow, etc.",
+    "pronunciation": "/siː/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used for saying goodbye to someone you are going to meet again later/soon/tomorrow, etc."
+  },
+  {
+    "id": "EC2C98A2",
+    "term": "see",
+    "pronunciation": "/siː/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to notice people and things with your eyes"
+  },
+  {
+    "id": "1C502D16",
+    "term": "see",
+    "pronunciation": "/siː/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to meet or visit someone"
+  },
+  {
+    "id": "EEF728D1",
+    "term": "see you later",
+    "pronunciation": "/ˈleɪt̬.ər/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used for saying goodbye to someone you are going to meet again soon, especially during the same day"
+  },
+  {
+    "id": "1281489B",
+    "term": "send",
+    "pronunciation": "/send/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to arrange for something to go to or be delivered somewhere or to someone"
+  },
+  {
+    "id": "220D85AB",
+    "term": "sentence",
+    "pronunciation": "/ˈsen.t̬əns/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a group of words, usually containing a verb, that expresses a complete idea"
+  },
+  {
+    "id": "B8442FE7",
+    "term": "September",
+    "pronunciation": "/sepˈtem.bər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the ninth month of the year, after August and before October"
+  },
+  {
+    "id": "63075693",
+    "term": "seven",
+    "pronunciation": "/ˈsev.ən/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 7"
+  },
+  {
+    "id": "9F29E618",
+    "term": "seventeen",
+    "pronunciation": "/ˌsev.ənˈtiːn/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 17"
+  },
+  {
+    "id": "DF3E33F8",
+    "term": "she",
+    "pronunciation": "/ʃiː/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to refer to a woman, girl or female animal that has already been mentioned"
+  },
+  {
+    "id": "06A722E0",
+    "term": "sheep",
+    "pronunciation": "/ʃiːp/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a farm animal whose skin is covered with wool"
+  },
+  {
+    "id": "7CFD3F93",
+    "term": "shirt",
+    "pronunciation": "/ʃɜrt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of clothing worn on the top part of the body, often made of thin material like cotton and fastened with buttons down the front"
+  },
+  {
+    "id": "A03F0699",
+    "term": "shoe",
+    "pronunciation": "/ʃuː/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a strong covering for the foot, often made of leather"
+  },
+  {
+    "id": "D74541C3",
+    "term": "shopping",
+    "pronunciation": "/ˈʃɑp.ɪŋ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the activity of buying things from shops"
+  },
+  {
+    "id": "32DDFA8C",
+    "term": "show",
+    "pronunciation": "/ʃoʊ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to let someone look at something"
+  },
+  {
+    "id": "32530CF0",
+    "term": "shower",
+    "pronunciation": "/ˈʃɑʊ.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the act of washing yourself while standing under a flow of water"
+  },
+  {
+    "id": "9C510911",
+    "term": "shower",
+    "pronunciation": "/ˈʃɑʊ.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of bathroom equipment that you stand under to wash your whole body"
+  },
+  {
+    "id": "D70C20F9",
+    "term": "sing",
+    "pronunciation": "/sɪŋ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to make musical sounds with your voice"
+  },
+  {
+    "id": "6FE232D8",
+    "term": "sister",
+    "pronunciation": "/ˈsɪs.tər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a girl or woman who has the same parents as another person"
+  },
+  {
+    "id": "6DE2595F",
+    "term": "sit",
+    "pronunciation": "/sɪt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to be in a position with the weight of your body on your bottom and the top part of your body up, for example, on a chair"
+  },
+  {
+    "id": "9434ED46",
+    "term": "six",
+    "pronunciation": "/sɪks/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 6"
+  },
+  {
+    "id": "407B6C53",
+    "term": "sixteen",
+    "pronunciation": "/sɪkˈstiːn/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 16"
+  },
+  {
+    "id": "084A658E",
+    "term": "skirt",
+    "pronunciation": "/ˈskɜrt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of clothing for women and girls that hangs from the waist and does not have legs"
+  },
+  {
+    "id": "BBB95A92",
+    "term": "sleep",
+    "pronunciation": "/sliːp/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to be in the state of rest when your eyes are closed, your body is not active, and your mind is unconscious"
+  },
+  {
+    "id": "49D6706F",
+    "term": "slim",
+    "pronunciation": "/slɪm/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "Someone who is slim is thin in an attractive way."
+  },
+  {
+    "id": "D25E582C",
+    "term": "small",
+    "pronunciation": "/smɔːl/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "little in size or amount"
+  },
+  {
+    "id": "84045E50",
+    "term": "small",
+    "pronunciation": "/smɔːl/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "A small child is very young."
+  },
+  {
+    "id": "46F3C499",
+    "term": "smoke",
+    "pronunciation": "/smoʊk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to breathe smoke into your mouth from a cigarette"
+  },
+  {
+    "id": "8EEDD9E5",
+    "term": "smoking",
+    "pronunciation": "/ˈsmoʊ.kɪŋ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "when someone smokes a cigarette or regularly smokes cigarettes"
+  },
+  {
+    "id": "1199B13D",
+    "term": "some",
+    "pronunciation": "/sʌm/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to refer to an amount of something without saying exactly how much or how many"
+  },
+  {
+    "id": "C145F56C",
+    "term": "some",
+    "pronunciation": "/sʌm/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to refer to part of a larger amount or number of something and not all of it"
+  },
+  {
+    "id": "5A5B2C62",
+    "term": "some",
+    "pronunciation": "/sʌm/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to refer to an amount of something without saying exactly how much or how many"
+  },
+  {
+    "id": "18EA7319",
+    "term": "sometimes",
+    "pronunciation": "/ˈsʌm.tɑɪmz/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "on some occasions but not always or often"
+  },
+  {
+    "id": "89D8EF8A",
+    "term": "son",
+    "pronunciation": "/sʌn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "your male child"
+  },
+  {
+    "id": "448434B3",
+    "term": "sorry",
+    "pronunciation": "/ˈsɑr.i/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "used to apologize for something you have done"
+  },
+  {
+    "id": "C897EF4C",
+    "term": "soup",
+    "pronunciation": "/suːp/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a usually hot, liquid food made from vegetables and sometimes meat or fish cooked in water"
+  },
+  {
+    "id": "B71E5D07",
+    "term": "speak",
+    "pronunciation": "/spiːk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to say something using your voice"
+  },
+  {
+    "id": "5AFF8B78",
+    "term": "speak",
+    "pronunciation": "/spiːk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to be able to talk in a language"
+  },
+  {
+    "id": "BF5F3337",
+    "term": "sport",
+    "pronunciation": "/spɔːrt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a game or activity which people do to keep healthy or for enjoyment, often competing against each other"
+  },
+  {
+    "id": "23B022E2",
+    "term": "start",
+    "pronunciation": "/stɑrt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to begin doing something"
+  },
+  {
+    "id": "FB127C39",
+    "term": "station",
+    "pronunciation": "/ˈsteɪ.ʃən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a building where trains or buses stop so that you can get on or off them"
+  },
+  {
+    "id": "CCEA0471",
+    "term": "stay",
+    "pronunciation": "/steɪ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to remain in a place, job, etc. and not leave"
+  },
+  {
+    "id": "247EDD38",
+    "term": "stop",
+    "pronunciation": "/stɑp/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a place where vehicles, especially buses, stop in order to allow passengers to get off and on"
+  },
+  {
+    "id": "4A86737A",
+    "term": "stop",
+    "pronunciation": "/stɑp/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to not continue doing something that you were doing"
+  },
+  {
+    "id": "9E2F5486",
+    "term": "store",
+    "pronunciation": "/stɔːr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a building or part of a building where you can buy things"
+  },
+  {
+    "id": "350F956D",
+    "term": "street",
+    "pronunciation": "/striːt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a road in a town or city that has houses or other buildings"
+  },
+  {
+    "id": "E8C91F5E",
+    "term": "Street",
+    "pronunciation": "/striːt/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used in the name of a street as part of an address"
+  },
+  {
+    "id": "4429AE46",
+    "term": "student",
+    "pronunciation": "/ˈstuːd.ənt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a person who is learning at a school or in college"
+  },
+  {
+    "id": "CB026C14",
+    "term": "study",
+    "pronunciation": "/ˈstʌd.i/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to learn about a subject, especially in school or college or by reading books"
+  },
+  {
+    "id": "76552636",
+    "term": "subway",
+    "pronunciation": "/ˈsʌb.weɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a system of trains that travel underground"
+  },
+  {
+    "id": "61C9687A",
+    "term": "sugar",
+    "pronunciation": "/ˈʃʊg.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a sweet substance used to give flavor to food and drinks"
+  },
+  {
+    "id": "1D34A1C5",
+    "term": "summer",
+    "pronunciation": "/ˈsʌm.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the season of the year between spring and fall, when the weather is warmest"
+  },
+  {
+    "id": "A497E404",
+    "term": "sun",
+    "pronunciation": "/sʌn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the large, bright star that shines in the sky during the day and provides light and heat for the Earth, or the light and heat that comes from the sun"
+  },
+  {
+    "id": "C330E125",
+    "term": "Sunday",
+    "pronunciation": "/ˈsʌn.deɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the day of the week after Saturday and before Monday"
+  },
+  {
+    "id": "8AD8C7C4",
+    "term": "supermarket",
+    "pronunciation": "/ˈsuː.pərˌmɑr.kɪt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a large store that sells many different foods and other products used in the home"
+  },
+  {
+    "id": "14A71628",
+    "term": "sweet",
+    "pronunciation": "/swiːt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "with a taste like sugar"
+  },
+  {
+    "id": "54360609",
+    "term": "swim",
+    "pronunciation": "/swɪm/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to move through water by moving your body"
+  },
+  {
+    "id": "C49512F3",
+    "term": "swimming pool",
+    "pronunciation": "/ˈswɪm.ɪŋˌpuːl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an area of water that has been made for people to swim in"
+  },
+  {
+    "id": "ADD9CAD9",
+    "term": "table",
+    "pronunciation": "/ˈteɪ.bəl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of furniture with four legs, used for eating off, putting things on, etc."
+  },
+  {
+    "id": "955A90ED",
+    "term": "take a picture/photo(graph)",
+    "pronunciation": "/teɪk/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to photograph someone or something"
+  },
+  {
+    "id": "9EDB1364",
+    "term": "take",
+    "pronunciation": "/teɪk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to get and carry something with you when you go somewhere"
+  },
+  {
+    "id": "C3757B94",
+    "term": "take",
+    "pronunciation": "/teɪk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to go somewhere with someone, often paying for them or being responsible for them"
+  },
+  {
+    "id": "AB43CA05",
+    "term": "talk",
+    "pronunciation": "/tɔːk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to say things to someone"
+  },
+  {
+    "id": "FD8F7FDE",
+    "term": "tall",
+    "pronunciation": "/tɔːl/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "having a greater than average height"
+  },
+  {
+    "id": "74805751",
+    "term": "taxi",
+    "pronunciation": "/ˈtæk.si/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a car with a driver who you pay to take you somewhere"
+  },
+  {
+    "id": "878FBA5E",
+    "term": "tea",
+    "pronunciation": "/tiː/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a hot drink that you make by pouring water onto dried leaves, or the leaves that you use to make this drink"
+  },
+  {
+    "id": "3193007E",
+    "term": "teach",
+    "pronunciation": "/tiːtʃ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to give lessons in a particular subject at a school, university, etc."
+  },
+  {
+    "id": "CF4266C2",
+    "term": "teacher",
+    "pronunciation": "/ˈtiː.tʃər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "someone whose job is to teach in a school or college"
+  },
+  {
+    "id": "007CA5BA",
+    "term": "television",
+    "pronunciation": "/ˈtel.ə.vɪʒ.ən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of equipment in the shape of a box, with a screen on the front, used for watching programs"
+  },
+  {
+    "id": "586B65DC",
+    "term": "television",
+    "pronunciation": "/ˈtel.ə.vɪʒ.ən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the programs that are shown on a television"
+  },
+  {
+    "id": "3AB10C72",
+    "term": "ten",
+    "pronunciation": "/ten/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 10"
+  },
+  {
+    "id": "3D9100EB",
+    "term": "tennis",
+    "pronunciation": "/ˈten.ɪs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a sport in which two or four people hit a small ball to each other over a net"
+  },
+  {
+    "id": "9BBB57F9",
+    "term": "test",
+    "pronunciation": "/test/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a set of questions to measure someone's knowledge or ability"
+  },
+  {
+    "id": "2F6BCD40",
+    "term": "than",
+    "pronunciation": "/ðæn/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to compare two different things or amounts"
+  },
+  {
+    "id": "64B79F9A",
+    "term": "thanks",
+    "pronunciation": "/θæŋks/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "thank you"
+  },
+  {
+    "id": "4983A826",
+    "term": "thank you",
+    "pronunciation": "/ˈθæŋ.kˌjuː/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "used to tell someone that you are grateful because they have given you something, done something for you or made a polite remark"
+  },
+  {
+    "id": "3F7EA06E",
+    "term": "that",
+    "pronunciation": "/ðæt/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to refer to something or someone that has already been talked about or seen"
+  },
+  {
+    "id": "DF370F1B",
+    "term": "that",
+    "pronunciation": "/ðæt/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to refer to something or someone that can be seen or pointed to"
+  },
+  {
+    "id": "2FDF1945",
+    "term": "that",
+    "pronunciation": "/ðæt/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to refer to something that can be seen or pointed to"
+  },
+  {
+    "id": "9B53D758",
+    "term": "that",
+    "pronunciation": "/ðæt/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to refer to something that has already been talked about or seen"
+  },
+  {
+    "id": "0B31FCF8",
+    "term": "the",
+    "pronunciation": "/ðiː/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used before nouns when only one of something exists"
+  },
+  {
+    "id": "86357435",
+    "term": "the",
+    "pronunciation": "/ðiː/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used before nouns to refer to particular things or people that have already been talked about or are already known"
+  },
+  {
+    "id": "590F92A3",
+    "term": "the",
+    "pronunciation": "/ðiː/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used before some nouns that refer to place when you want to mention that type of place, without showing exactly which example of the place you mean"
+  },
+  {
+    "id": "A0C53AE4",
+    "term": "the Internet",
+    "pronunciation": "/ˈɪn.t̬ər.net/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the system that connects computers all over the world and allows people who use computers to look at websites"
+  },
+  {
+    "id": "1B19B02D",
+    "term": "their",
+    "pronunciation": "/ðer /",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "belonging to or relating to a group of people, animals, or things that have already been talked about"
+  },
+  {
+    "id": "59DE820A",
+    "term": "them",
+    "pronunciation": "/ðem/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used after a verb or preposition to refer to a group of people, animals, or things that have already been talked about"
+  },
+  {
+    "id": "E39CF450",
+    "term": "then",
+    "pronunciation": "/ðen/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "at that time"
+  },
+  {
+    "id": "0EAEE3C9",
+    "term": "then",
+    "pronunciation": "/ðen/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "next, or after something has happened"
+  },
+  {
+    "id": "E986FC8E",
+    "term": "the present",
+    "pronunciation": "/ˈprez.ənt/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "the form of the verb that is used to show what happens or exists now"
+  },
+  {
+    "id": "51D4C908",
+    "term": "there",
+    "pronunciation": "/ðer/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used when you are pointing or looking at something in order to make someone look in the same direction"
+  },
+  {
+    "id": "758538E8",
+    "term": "there",
+    "pronunciation": "/ðer/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "in or at a particular place"
+  },
+  {
+    "id": "08CA7BF9",
+    "term": "There is/are/was, etc.",
+    "pronunciation": "/ðer/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to show that something exists or happens"
+  },
+  {
+    "id": "5004C369",
+    "term": "these",
+    "pronunciation": "/ðiːz/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "plural of \"\"\"this\"\"\""
+  },
+  {
+    "id": "5126B1F1",
+    "term": "they",
+    "pronunciation": "/ðeɪ/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used as the subject of the verb when referring to a group of people, animals, or things that have already been talked about"
+  },
+  {
+    "id": "1807A691",
+    "term": "think",
+    "pronunciation": "/θɪŋk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to believe that something is true, or to expect that something will happen, although you are not sure"
+  },
+  {
+    "id": "99AB5995",
+    "term": "think",
+    "pronunciation": "/θɪŋk/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to have an opinion about something or someone"
+  },
+  {
+    "id": "561639CB",
+    "term": "thirteen",
+    "pronunciation": "/θɜrtˈtiːn/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 13"
+  },
+  {
+    "id": "DC6F0634",
+    "term": "this",
+    "pronunciation": "/ðɪs/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to refer to something that you have already talked about"
+  },
+  {
+    "id": "735543B2",
+    "term": "this",
+    "pronunciation": "/ðɪs/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to refer to something or someone that can be seen or pointed to"
+  },
+  {
+    "id": "2E8B9053",
+    "term": "this",
+    "pronunciation": "/ðɪs/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to refer to the present week, month, year, etc. or the one that comes next"
+  },
+  {
+    "id": "7D7A5DC3",
+    "term": "those",
+    "pronunciation": "/ðəʊz/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "plural of \"\"\"that\"\"\""
+  },
+  {
+    "id": "9285CB82",
+    "term": "three",
+    "pronunciation": "/θriː/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 3"
+  },
+  {
+    "id": "A4C50771",
+    "term": "Thursday",
+    "pronunciation": "/ˈθɜrz.deɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the day of the week after Wednesday and before Friday"
+  },
+  {
+    "id": "8200CC99",
+    "term": "ticket",
+    "pronunciation": "/ˈtɪk.ət/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a small piece of paper that shows you have paid to do something, for example travel on a bus, watch a movie, etc."
+  },
+  {
+    "id": "0B8842E7",
+    "term": "tired",
+    "pronunciation": "/tɑɪrd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "feeling that you want to rest or sleep"
+  },
+  {
+    "id": "7B185FC5",
+    "term": "to",
+    "pronunciation": "/tuː/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used with a verb to make an infinitive"
+  },
+  {
+    "id": "240BA41E",
+    "term": "to",
+    "pronunciation": "/tuː/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to talk about a place or an event where someone goes"
+  },
+  {
+    "id": "C41439D7",
+    "term": "to",
+    "pronunciation": "/tuː/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to say \"\"\"before\"\"\" the hour when you are saying what time it is"
+  },
+  {
+    "id": "6DB7C1AD",
+    "term": "today",
+    "pronunciation": "/təˈdeɪ/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "on this day"
+  },
+  {
+    "id": "870AF293",
+    "term": "today",
+    "pronunciation": "/təˈdeɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "this day"
+  },
+  {
+    "id": "05DC9878",
+    "term": "together",
+    "pronunciation": "/təˈgeð.ər/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "with each other or doing something with each other"
+  },
+  {
+    "id": "272BC4F7",
+    "term": "toilet",
+    "pronunciation": "/ˈtɔɪ.lət/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a bowl that you sit on or stand near when you get rid of waste substances from your body"
+  },
+  {
+    "id": "9C0CC779",
+    "term": "tomato",
+    "pronunciation": "/təˈmeɪt̬.oʊ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a soft, round, red fruit eaten in salad or as a vegetable"
+  },
+  {
+    "id": "DCA3AC3F",
+    "term": "tomorrow",
+    "pronunciation": "/təˈmɑr.oʊ/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "on the day after today"
+  },
+  {
+    "id": "8E24D259",
+    "term": "tomorrow",
+    "pronunciation": "/təˈmɑr.oʊ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the day after today"
+  },
+  {
+    "id": "F379C63F",
+    "term": "tonight",
+    "pronunciation": "/təˈnɑɪt/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "during the night of the present day"
+  },
+  {
+    "id": "A111D767",
+    "term": "too",
+    "pronunciation": "/tuː/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "also"
+  },
+  {
+    "id": "4DF70D1A",
+    "term": "too small/hard/much, etc.",
+    "pronunciation": "/tuː/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used before adjectives and adverbs to mean \"\"\"more than is allowed, necessary, possible, etc.\"\"\""
+  },
+  {
+    "id": "3F69FE2F",
+    "term": "tooth",
+    "pronunciation": "/tuːθ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "one of the hard white objects in the mouth, which are used for biting and chewing"
+  },
+  {
+    "id": "0E21FB43",
+    "term": "town",
+    "pronunciation": "/tɑʊn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a place with houses, stores, and other buildings where people live and work that is smaller than a city"
+  },
+  {
+    "id": "229154FB",
+    "term": "train",
+    "pronunciation": "/treɪn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a long, thin vehicle which travels along metal tracks and carries people or goods"
+  },
+  {
+    "id": "81ED82A0",
+    "term": "travel",
+    "pronunciation": "/ˈtræv.əl/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to make a trip"
+  },
+  {
+    "id": "A063CD0B",
+    "term": "tree",
+    "pronunciation": "/triː/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a tall plant with a thick stem which has branches coming from it and leaves"
+  },
+  {
+    "id": "21D689A9",
+    "term": "T-shirt",
+    "pronunciation": "/ˈtiː.ʃɜrt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a piece of cotton clothing for the top part of the body with short sleeves and no collar"
+  },
+  {
+    "id": "023782A9",
+    "term": "Tuesday",
+    "pronunciation": "/ˈtuːz.deɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the day of the week after Monday and before Wednesday"
+  },
+  {
+    "id": "8E6E2E86",
+    "term": "TV",
+    "pronunciation": "/ˌtiːˈviː/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "television"
+  },
+  {
+    "id": "358706E1",
+    "term": "twelve",
+    "pronunciation": "/twelv/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 12"
+  },
+  {
+    "id": "489D8F12",
+    "term": "understand",
+    "pronunciation": "/ˌʌn.dərˈstænd/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to know the meaning of something that someone says"
+  },
+  {
+    "id": "EFFE398F",
+    "term": "university",
+    "pronunciation": "/ˌjuː.nəˈvɜr.sət̬.i/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a place where students study at a high level to get a degree"
+  },
+  {
+    "id": "D0A8A4A5",
+    "term": "until",
+    "pronunciation": "/ənˈtɪl/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "continuing to happen before a particular time or event and then stopping"
+  },
+  {
+    "id": "961E752A",
+    "term": "us",
+    "pronunciation": "/ʌs/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used after a verb or preposition to refer to the person who is speaking or writing and one or more other people"
+  },
+  {
+    "id": "42C8DD91",
+    "term": "vacation",
+    "pronunciation": "/veɪˈkeɪ.ʃən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of time to relax or travel for pleasure instead of doing your usual work or school activities"
+  },
+  {
+    "id": "57B309FD",
+    "term": "vegetable",
+    "pronunciation": "/ˈvedʒ.tə.bəl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a plant that you eat, for example potatoes, onions, beans, etc."
+  },
+  {
+    "id": "BD9746A5",
+    "term": "village",
+    "pronunciation": "/ˈvɪl.ɪdʒ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a group of stores, houses, and other buildings that is smaller than a town"
+  },
+  {
+    "id": "10C4F4E0",
+    "term": "visit",
+    "pronunciation": "/ˈvɪz.ɪt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to go to someone's home and spend time with them"
+  },
+  {
+    "id": "F970C160",
+    "term": "visit",
+    "pronunciation": "/ˈvɪz.ɪt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to go to a place and spend a short amount of time there"
+  },
+  {
+    "id": "CF53B222",
+    "term": "waiter",
+    "pronunciation": "/ˈweɪt̬.ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a man who works in a restaurant, bringing food to customers"
+  },
+  {
+    "id": "3916EDD7",
+    "term": "waitress",
+    "pronunciation": "/ˈweɪ.trəs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a woman who works in a restaurant, bringing food to customers"
+  },
+  {
+    "id": "4CD41F4D",
+    "term": "wake (sb) up or wake up (sb)",
+    "pronunciation": "//",
+    "part_of_speech": "phrasal verb",
+    "level": "A1",
+    "definition": "to stop sleeping or to make someone else stop sleeping"
+  },
+  {
+    "id": "B2D9414D",
+    "term": "wall",
+    "pronunciation": "/wɔːl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a vertical structure, often made of stone or brick, that divides or surrounds something"
+  },
+  {
+    "id": "AE0084C3",
+    "term": "want",
+    "pronunciation": "/wɑnt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to hope to have or do something, or to wish for something"
+  },
+  {
+    "id": "5B102074",
+    "term": "warm",
+    "pronunciation": "/wɔːrm/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "having a temperature between cool and hot"
+  },
+  {
+    "id": "5A5C9400",
+    "term": "wash up",
+    "pronunciation": "/wɑʃ/",
+    "part_of_speech": "phrasal verb",
+    "level": "A1",
+    "definition": "to clean yourself, or a part of yourself, with water and usually soap, especially your hands before a meal"
+  },
+  {
+    "id": "864FA719",
+    "term": "wash",
+    "pronunciation": "/wɑʃ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to clean something using water"
+  },
+  {
+    "id": "7E9C50C3",
+    "term": "watch",
+    "pronunciation": "/wɑtʃ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a small clock that is worn on a strap around the wrist"
+  },
+  {
+    "id": "C3C514A2",
+    "term": "watch",
+    "pronunciation": "/wɑtʃ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to look at something for a period of time"
+  },
+  {
+    "id": "E8DC170D",
+    "term": "we",
+    "pronunciation": "/wiː/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used as the subject of the verb to refer to the speaker and at least one other person when considered together or as a group"
+  },
+  {
+    "id": "39EC0009",
+    "term": "wear",
+    "pronunciation": "/wer/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to have clothing, jewelery, etc. on your body"
+  },
+  {
+    "id": "D41E71B3",
+    "term": "Web site",
+    "pronunciation": "/ˈweb.sɑɪt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a set of pages of information on the Internet about a particular subject that have been published by the same person or organization and that often contain color pictures, video, and sound"
+  },
+  {
+    "id": "5FCACC00",
+    "term": "Wednesday",
+    "pronunciation": "/ˈwenz.deɪ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the day of the week after Tuesday and before Thursday"
+  },
+  {
+    "id": "02C499AC",
+    "term": "week",
+    "pronunciation": "/wiːk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of seven days"
+  },
+  {
+    "id": "5FD00E49",
+    "term": "week",
+    "pronunciation": "/wiːk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the five days from Monday to Friday when people usually go to work or school"
+  },
+  {
+    "id": "0966CD77",
+    "term": "weekend",
+    "pronunciation": "/ˈwiːk.end/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "Saturday and Sunday, or Friday evening until Sunday night; the part of the week when many people do not work"
+  },
+  {
+    "id": "EB870FD2",
+    "term": "what",
+    "pronunciation": "/wʌt/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to ask for information about something"
+  },
+  {
+    "id": "F954B846",
+    "term": "what",
+    "pronunciation": "/wʌt/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to ask for information about something"
+  },
+  {
+    "id": "646820C7",
+    "term": "when",
+    "pronunciation": "/wen/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to ask at what time something happened or will happen"
+  },
+  {
+    "id": "5BA5417E",
+    "term": "where",
+    "pronunciation": "/wer/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to ask about the place or position of someone or something"
+  },
+  {
+    "id": "D4DE47E9",
+    "term": "which",
+    "pronunciation": "/wɪtʃ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to ask or talk about a choice between two or more things"
+  },
+  {
+    "id": "92785F99",
+    "term": "white",
+    "pronunciation": "/wɑɪt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "being the color of snow or milk"
+  },
+  {
+    "id": "F4C7D2EE",
+    "term": "who",
+    "pronunciation": "/huː/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to ask about someone's name or which person or group someone is talking about"
+  },
+  {
+    "id": "B1DB3499",
+    "term": "why",
+    "pronunciation": "/wɑɪ/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to ask about the reason for something"
+  },
+  {
+    "id": "798D6BCE",
+    "term": "wife",
+    "pronunciation": "/wɑɪf/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the woman a man is married to"
+  },
+  {
+    "id": "8BB3B708",
+    "term": "will",
+    "pronunciation": "/wɪl/",
+    "part_of_speech": "modal verb",
+    "level": "A1",
+    "definition": "used to talk about what someone or something is able or willing to do"
+  },
+  {
+    "id": "7237C071",
+    "term": "wind",
+    "pronunciation": "/wɪnd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a natural, fast movement of air"
+  },
+  {
+    "id": "3A16F6EE",
+    "term": "window",
+    "pronunciation": "/ˈwɪn.doʊ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a space usually filled with glass in the wall of a building or in a vehicle, to allow light and air in and to allow people inside the building to see out"
+  },
+  {
+    "id": "9C447694",
+    "term": "wine",
+    "pronunciation": "/wɑɪn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an alcoholic drink that is usually made from grapes, or sometimes from other fruit"
+  },
+  {
+    "id": "8B4F7DC7",
+    "term": "winter",
+    "pronunciation": "/ˈwɪn.t̬ər/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the coldest season of the year, between fall and spring"
+  },
+  {
+    "id": "BA93E636",
+    "term": "with",
+    "pronunciation": "/wɪð/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to say that people or things are in a place together or are doing something together"
+  },
+  {
+    "id": "7094D1BD",
+    "term": "with",
+    "pronunciation": "/wɪð/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "having or including something"
+  },
+  {
+    "id": "BA3DE501",
+    "term": "woman",
+    "pronunciation": "/ˈwʊm.ən/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an adult female person"
+  },
+  {
+    "id": "5C5EC575",
+    "term": "would like sth/to do sth",
+    "pronunciation": "/wʊd/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to say politely that you want something"
+  },
+  {
+    "id": "5A536905",
+    "term": "Would you like ...?",
+    "pronunciation": "/wʊd/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to ask someone if they want something"
+  },
+  {
+    "id": "3A792DC0",
+    "term": "write",
+    "pronunciation": "/rɑɪt/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to produce letters, words or numbers on a surface or computer"
+  },
+  {
+    "id": "0EC93F08",
+    "term": "writing",
+    "pronunciation": "/ˈrɑɪt̬.ɪŋ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the skill or activity of producing words on a surface"
+  },
+  {
+    "id": "F56E32E7",
+    "term": "yellow",
+    "pronunciation": "/ˈjel.oʊ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "being the same color as a lemon or the sun"
+  },
+  {
+    "id": "9A5267AC",
+    "term": "yes",
+    "pronunciation": "/jes/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to agree with something, or to give a positive answer"
+  },
+  {
+    "id": "6308DE6E",
+    "term": "yes",
+    "pronunciation": "/jes/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to show that you are listening to someone, or that you are ready to listen and to give them an answer or information"
+  },
+  {
+    "id": "4AB7CE60",
+    "term": "yesterday",
+    "pronunciation": "/ˈjes.tər.deɪ/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "on the day before today"
+  },
+  {
+    "id": "8EE23BFF",
+    "term": "you",
+    "pronunciation": "/juː/",
+    "part_of_speech": "pronoun",
+    "level": "A1",
+    "definition": "used to refer to the person or people you are talking to"
+  },
+  {
+    "id": "FD80F4AB",
+    "term": "young",
+    "pronunciation": "/jʌŋ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "having lived or existed for only a short time and not old"
+  },
+  {
+    "id": "7884CFF4",
+    "term": "your",
+    "pronunciation": "/jʊr /",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "belonging or relating to the person or group of people being spoken or written to"
+  },
+  {
+    "id": "CB4B0747",
+    "term": "zoo",
+    "pronunciation": "/zuː/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a place where wild animals are kept so that people can go and look at them"
   }
 ]
