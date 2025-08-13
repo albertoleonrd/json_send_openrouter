@@ -1,0 +1,610 @@
+[
+  {
+    "id": "D5F39E81",
+    "term": "morning",
+    "pronunciation": "/ˈmɔːr.nɪŋ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the first half of the day, from the time when the sun rises or you wake up until the middle of the day"
+  },
+  {
+    "id": "50EC6644",
+    "term": "(Good) morning",
+    "pronunciation": "/ˈmɔːr.nɪŋ/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to say hello to someone in the morning"
+  },
+  {
+    "id": "793C9B55",
+    "term": "in the morning",
+    "pronunciation": "/ˈmɔːr.nɪŋ/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "during the early part of the day"
+  },
+  {
+    "id": "2C00A32F",
+    "term": "a",
+    "pronunciation": "/eɪ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used before a noun to refer to a single thing or person but not a particular thing or person or not one that you have referred to before"
+  },
+  {
+    "id": "47626FCD",
+    "term": "a",
+    "pronunciation": "/eɪ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "one"
+  },
+  {
+    "id": "3731E346",
+    "term": "a",
+    "pronunciation": "/eɪ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to mean any or every thing or person of the type you are referring to"
+  },
+  {
+    "id": "E8FE23E5",
+    "term": "a",
+    "pronunciation": "/eɪ/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "used to state what type of thing or person something or someone is"
+  },
+  {
+    "id": "C1785FA8",
+    "term": "book",
+    "pronunciation": "/bʊk/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a set of attached pages in a cover, with words or pictures that tell a story or provide information"
+  },
+  {
+    "id": "22D5A418",
+    "term": "about",
+    "pronunciation": "/əˈbɑʊt/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "a little more or less than the stated number or amount"
+  },
+  {
+    "id": "0EC4A548",
+    "term": "about",
+    "pronunciation": "/əˈbɑʊt/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "relating to a particular subject or person"
+  },
+  {
+    "id": "2AFA4E65",
+    "term": "time",
+    "pronunciation": "/tɑɪm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a particular point in the day or night"
+  },
+  {
+    "id": "DD6C1565",
+    "term": "above",
+    "pronunciation": "/əˈbʌv/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "in or to a higher position than something else"
+  },
+  {
+    "id": "5CC30A94",
+    "term": "all",
+    "pronunciation": "/ɔːl/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "the whole of a period of time"
+  },
+  {
+    "id": "197B1FDD",
+    "term": "all",
+    "pronunciation": "/ɔːl/",
+    "part_of_speech": "determiner",
+    "level": "A1",
+    "definition": "every person or thing in a group"
+  },
+  {
+    "id": "C1B05A45",
+    "term": "home",
+    "pronunciation": "/hoʊm/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the place where you live or feel you belong"
+  },
+  {
+    "id": "592BBA0D",
+    "term": "be called sth",
+    "pronunciation": "/kɔːl/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "to have a particular name"
+  },
+  {
+    "id": "C2544860",
+    "term": "change",
+    "pronunciation": "/tʃeɪndʒ/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to stop having or using one thing, and start having or using another"
+  },
+  {
+    "id": "520FC471",
+    "term": "board",
+    "pronunciation": "/bɔːrd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a surface on the wall of a classroom that a teacher writes on"
+  },
+  {
+    "id": "E2F7DB00",
+    "term": "ad",
+    "pronunciation": "/æd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "an advertisement"
+  },
+  {
+    "id": "E4847453",
+    "term": "school",
+    "pronunciation": "/skuːl/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a place where children go to be educated"
+  },
+  {
+    "id": "4F957734",
+    "term": "address",
+    "pronunciation": "/ˈæ.dres/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the details of where a building is, including the building number, street name, city or town, etc."
+  },
+  {
+    "id": "127B86FC",
+    "term": "address",
+    "pronunciation": "/ˈæ.dres/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a series of letters, numbers or punctuation marks referring to a Web site or e-mail destination"
+  },
+  {
+    "id": "1FF997C6",
+    "term": "adult",
+    "pronunciation": "/əˈdʌlt/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a person or animal that has grown to full size and strength"
+  },
+  {
+    "id": "F334547A",
+    "term": "fine",
+    "pronunciation": "/fɑɪn/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "well, healthy, or happy"
+  },
+  {
+    "id": "3A263CDC",
+    "term": "(that's) fine",
+    "pronunciation": "/fɑɪn/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to agree with a suggestion, idea, etc."
+  },
+  {
+    "id": "20829126",
+    "term": "hand",
+    "pronunciation": "/hænd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the part of your body on the end of your arm that has fingers and a thumb"
+  },
+  {
+    "id": "7FB5CE00",
+    "term": "after",
+    "pronunciation": "/ˈæf.tər/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "when a time or event has happened"
+  },
+  {
+    "id": "8ABA7452",
+    "term": "afternoon",
+    "pronunciation": "/ˌæf.tərˈnuːn/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the time between the middle of the day and the evening"
+  },
+  {
+    "id": "F5B4495E",
+    "term": "again",
+    "pronunciation": "/əˈgen/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "once more"
+  },
+  {
+    "id": "32E62897",
+    "term": "age",
+    "pronunciation": "/eɪdʒ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the number of years that someone has lived, or that something has existed"
+  },
+  {
+    "id": "A9E8F0B4",
+    "term": "good",
+    "pronunciation": "/gʊd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "enjoyable, pleasant or interesting"
+  },
+  {
+    "id": "E1F01F4F",
+    "term": "good",
+    "pronunciation": "/gʊd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "something you say when you are pleased about what someone has said"
+  },
+  {
+    "id": "9905ACAF",
+    "term": "good",
+    "pronunciation": "/gʊd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "of a high quality or level"
+  },
+  {
+    "id": "5744C165",
+    "term": "good",
+    "pronunciation": "/gʊd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "something that you say when a person asks how you are or how someone you know is"
+  },
+  {
+    "id": "9BBD9C5E",
+    "term": "good",
+    "pronunciation": "/gʊd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "successful, or able to do something well"
+  },
+  {
+    "id": "FF5F051F",
+    "term": "good",
+    "pronunciation": "/gʊd/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "kind or helpful"
+  },
+  {
+    "id": "C1C3448C",
+    "term": "good for you",
+    "pronunciation": "/gʊd/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "making you healthy or happy"
+  },
+  {
+    "id": "059F3719",
+    "term": "great",
+    "pronunciation": "/greɪt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "very good"
+  },
+  {
+    "id": "C5A1EF21",
+    "term": "hot",
+    "pronunciation": "/hɑt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "having a high temperature"
+  },
+  {
+    "id": "670D2B4B",
+    "term": "love",
+    "pronunciation": "/lʌv/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to like a friend or a person in your family very much"
+  },
+  {
+    "id": "2D357F4E",
+    "term": "love",
+    "pronunciation": "/lʌv/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to like something very much"
+  },
+  {
+    "id": "5AF13967",
+    "term": "love",
+    "pronunciation": "/lʌv/",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "definition": "to like someone very much and have romantic feelings for them"
+  },
+  {
+    "id": "4F94EA73",
+    "term": "last week/year/Monday, etc.",
+    "pronunciation": "/læst/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "the week/year/Monday, etc. before the present one"
+  },
+  {
+    "id": "4EB806F3",
+    "term": "last night",
+    "pronunciation": "/læst/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "the evening or night that has just passed"
+  },
+  {
+    "id": "F302812B",
+    "term": "little",
+    "pronunciation": "/ˈlɪt̬.əl/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "small in size or amount"
+  },
+  {
+    "id": "F51A16CA",
+    "term": "little",
+    "pronunciation": "/ˈlɪt̬.əl/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "young"
+  },
+  {
+    "id": "317667EA",
+    "term": "but",
+    "pronunciation": "/bʌt/",
+    "part_of_speech": "conjunction",
+    "level": "A1",
+    "definition": "used to introduce an added statement, usually something that is different from what you have said before"
+  },
+  {
+    "id": "7C4B7833",
+    "term": "long",
+    "pronunciation": "/lɔːŋ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "having a large distance from one end to the other"
+  },
+  {
+    "id": "AFC88C11",
+    "term": "long",
+    "pronunciation": "/lɔːŋ/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "continuing for a large amount of time"
+  },
+  {
+    "id": "537C21E4",
+    "term": "hour",
+    "pronunciation": "/ɑʊr/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a period of 60 minutes"
+  },
+  {
+    "id": "D7BD31B3",
+    "term": "one",
+    "pronunciation": "/wʌn/",
+    "part_of_speech": "number",
+    "level": "A1",
+    "definition": "the number 1"
+  },
+  {
+    "id": "B9F4A05D",
+    "term": "well",
+    "pronunciation": "/wel/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "in a successful or satisfactory way"
+  },
+  {
+    "id": "3C2E8443",
+    "term": "well",
+    "pronunciation": "/wel/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "healthy; not sick"
+  },
+  {
+    "id": "B0F102C3",
+    "term": "well",
+    "pronunciation": "/wel/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "used at the beginning of a sentence to pause slightly or to express doubt or disagreement"
+  },
+  {
+    "id": "3B6AD45C",
+    "term": "as well (as)",
+    "pronunciation": "/wel/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "in addition (to)"
+  },
+  {
+    "id": "3295C7F9",
+    "term": "same",
+    "pronunciation": "/seɪm/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "not another different person, thing or situation"
+  },
+  {
+    "id": "029AD8C4",
+    "term": "the same",
+    "pronunciation": "/seɪm/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "exactly alike"
+  },
+  {
+    "id": "92CA05C3",
+    "term": "kind",
+    "pronunciation": "/kɑɪnd/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a type of thing or person"
+  },
+  {
+    "id": "D7601D07",
+    "term": "on",
+    "pronunciation": "/ɔːn/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "on or onto a surface"
+  },
+  {
+    "id": "254DD2CA",
+    "term": "on",
+    "pronunciation": "/ɔːn/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "used to show the day or date when something happens"
+  },
+  {
+    "id": "94F690FB",
+    "term": "on",
+    "pronunciation": "/ɔːn/",
+    "part_of_speech": "preposition",
+    "level": "A1",
+    "definition": "covering, touching, attached to or hanging from something"
+  },
+  {
+    "id": "6E56F461",
+    "term": "place",
+    "pronunciation": "/pleɪs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a position, building, town, area, etc."
+  },
+  {
+    "id": "2E7F89BF",
+    "term": "all right",
+    "pronunciation": "/ɔːlˈrɑɪt/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "happening successfully or without problems"
+  },
+  {
+    "id": "02690D62",
+    "term": "all right",
+    "pronunciation": "/ɔːlˈrɑɪt/",
+    "part_of_speech": "exclamation",
+    "level": "A1",
+    "definition": "used to agree to a suggestion or request"
+  },
+  {
+    "id": "F9A6508C",
+    "term": "best",
+    "pronunciation": "/best/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "(superlative ofwell) most, or more than any other"
+  },
+  {
+    "id": "79E6435B",
+    "term": "best",
+    "pronunciation": "/best/",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "definition": "(superlative of good) better than any other"
+  },
+  {
+    "id": "7CF34A05",
+    "term": "thing",
+    "pronunciation": "/θɪŋ/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "used to refer to something without saying its name"
+  },
+  {
+    "id": "AF8443D3",
+    "term": "things",
+    "pronunciation": "/θɪŋ/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "your possessions or a set of objects"
+  },
+  {
+    "id": "19FAD2C3",
+    "term": "a lot/lots",
+    "pronunciation": "//",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "a large amount or number of people or things"
+  },
+  {
+    "id": "45AD5C17",
+    "term": "a lot",
+    "pronunciation": "//",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "very much or very often"
+  },
+  {
+    "id": "F130CDE4",
+    "term": "also",
+    "pronunciation": "/ˈɔːl.soʊ/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "in addition"
+  },
+  {
+    "id": "54C2A758",
+    "term": "always",
+    "pronunciation": "/ˈɔːl.weɪz/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "every time, or at all times"
+  },
+  {
+    "id": "E1AF3A71",
+    "term": "a.m.",
+    "pronunciation": "/eɪˈem/",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "definition": "used to refer to a time between twelve o'clock at night and twelve o'clock in the middle of the day"
+  },
+  {
+    "id": "51A135DF",
+    "term": "course",
+    "pronunciation": "/kɔːrs/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "a set of classes or a plan of study in a particular subject, usually a part of a program of study for a diploma, certificate, or degree"
+  },
+  {
+    "id": "A1CA27B3",
+    "term": "of course",
+    "pronunciation": "/kɔːrs/",
+    "part_of_speech": "phrase",
+    "level": "A1",
+    "definition": "used to say \"\"\"yes\"\"\" and emphasize your answer"
+  },
+  {
+    "id": "6455CFDD",
+    "term": "life",
+    "pronunciation": "/lɑɪf/",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "definition": "the time between a person's birth and their death"
+  }
+]
