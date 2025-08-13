@@ -1,22 +1,19 @@
 import json
 import requests
 import os
+import re
 from dotenv import load_dotenv
 
-# Cargar variables de entorno (para la API key de OpenRouter)
 load_dotenv()
 
-# Configuración
 INPUT_FILE = 'worddata_a1.json'
 OUTPUT_FILE = 'worddata_a1_processed.json'
 OPENROUTER_API_KEY = os.getenv('OPENROUTER_API_KEY')
 OPENROUTER_URL = 'https://openrouter.ai/api/v1/chat/completions'
 
-# Verificar que la API key esté disponible
 if not OPENROUTER_API_KEY:
     raise ValueError("La API key de OpenRouter no está configurada. Crea un archivo .env con OPENROUTER_API_KEY=tu_clave")
 
-# Función para crear el prompt con el formato especificado
 def create_prompt(word_data):
     prompt = f"""[<context> 
      <source_json> 
@@ -47,7 +44,7 @@ def create_prompt(word_data):
      </output_rules> 
  </instructions> 
  <output_format> 
-   { 
+   {{ 
      "id": "...", 
      "term": "...", 
      "pronunciation": "...", 
@@ -57,28 +54,24 @@ def create_prompt(word_data):
      "term_es": "...", 
      "example": "...", 
      "example_es": "..." 
-   } 
+   }} 
  </output_format>]"""
     return prompt
 
-# Función para enviar el prompt a OpenRouter y obtener la respuesta
 def send_to_openrouter(prompt):
     headers = {
         'Authorization': f'Bearer {OPENROUTER_API_KEY}',
         'Content-Type': 'application/json'
     }
-    
     data = {
-        'model': 'google/gemini-2.5-flash',  # Puedes cambiar el modelo según tus necesidades
+        'model': 'google/gemini-2.5-flash',
         'messages': [
             {'role': 'user', 'content': prompt}
         ],
         'temperature': 0.7,
         'max_tokens': 1000
     }
-    
     response = requests.post(OPENROUTER_URL, headers=headers, json=data)
-    
     if response.status_code == 200:
         return response.json()['choices'][0]['message']['content']
     else:
@@ -86,16 +79,11 @@ def send_to_openrouter(prompt):
         print(response.text)
         return None
 
-# Función para extraer el JSON de la respuesta
 def extract_json_from_response(response_text):
     try:
-        # Intentar analizar directamente la respuesta como JSON
         return json.loads(response_text)
     except json.JSONDecodeError:
-        # Si falla, intentar extraer el bloque JSON de la respuesta
         try:
-            # Buscar el JSON en la respuesta (puede estar en un bloque de código)
-            import re
             json_match = re.search(r'\{[\s\S]*\}', response_text)
             if json_match:
                 return json.loads(json_match.group(0))
@@ -106,45 +94,52 @@ def extract_json_from_response(response_text):
             print(f"Error al extraer JSON: {e}")
             return None
 
-# Función principal
+def load_clean_json(file_path):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read().strip()
+        content = re.sub(r'^json\[\[', '[', content)
+        content = re.sub(r'\]\]$', ']', content)
+        return json.loads(content)
+
 def main():
     try:
-        # Leer el archivo JSON de entrada
-        with open(INPUT_FILE, 'r', encoding='utf-8') as f:
-            word_data_list = json.load(f)
-        
+        word_data_list = load_clean_json(INPUT_FILE)
         processed_data = []
         total_words = len(word_data_list)
-        
-        # Procesar cada palabra
-        for i, word_data in enumerate(word_data_list):
+
+        # Si existe archivo previo, cargarlo para continuar
+        if os.path.exists(OUTPUT_FILE):
+            with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+                try:
+                    processed_data = json.load(f)
+                except:
+                    processed_data = []
+
+        start_index = len(processed_data)
+
+        for i in range(start_index, total_words):
+            word_data = word_data_list[i]
             print(f"Procesando palabra {i+1}/{total_words}: {word_data.get('term', 'desconocido')}")
-            
-            # Crear el prompt y enviarlo a OpenRouter
             prompt = create_prompt(word_data)
             response = send_to_openrouter(prompt)
-            
             if response:
-                # Extraer el JSON de la respuesta
                 processed_word = extract_json_from_response(response)
                 if processed_word:
                     processed_data.append(processed_word)
                     print(f"  ✓ Procesado correctamente")
                 else:
                     print(f"  ✗ Error al extraer JSON de la respuesta")
-                    # Si hay error, guardar la palabra original
                     processed_data.append(word_data)
             else:
                 print(f"  ✗ No se recibió respuesta de OpenRouter")
-                # Si hay error, guardar la palabra original
                 processed_data.append(word_data)
-        
-        # Guardar los resultados en un archivo JSON
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            json.dump(processed_data, f, ensure_ascii=False, indent=2)
-        
+
+            # Guardar progreso después de cada elemento
+            with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+                json.dump(processed_data, f, ensure_ascii=False, indent=2)
+
         print(f"\nProcesamiento completado. Resultados guardados en {OUTPUT_FILE}")
-    
+
     except Exception as e:
         print(f"Error en el procesamiento: {e}")
 
