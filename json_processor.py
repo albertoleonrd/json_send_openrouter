@@ -19,6 +19,7 @@ def create_prompt(word_data):
      <source_json> 
        {json.dumps(word_data, indent=2)} 
      </source_json> 
+     <available_categories>Action, Activity, Animal, Body, Clothing, Color, Communication, Concept, Connector, Degree, Determiner, Direction, Education, Emotion, Event, Expression, Family, Food, Function, Grammar, Health, Modal, Modifier, Music, Nature, Number, Object, Person, Place, Plant, Pronoun, Property, Quantity, Relationship, Sport, State, Substance, Technology, Time, Transport, Weather, Work</available_categories>
  </context> 
  <role>Actuar como un experto en la creación de material didáctico para estudiantes de inglés de nivel A1. Tu especialidad es generar ejemplos claros y sencillos utilizando un vocabulario estrictamente controlado.</role> 
  <instructions> 
