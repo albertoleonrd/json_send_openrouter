@@ -67,7 +67,7 @@ def send_to_openrouter(prompt):
         'Content-Type': 'application/json'
     }
     data = {
-        'model': 'google/gemini-2.5-flash',
+        'model': 'google/gemini-2.5-flash-lite',
         'messages': [
             {'role': 'user', 'content': prompt}
         ],
