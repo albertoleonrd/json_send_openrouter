@@ -2,12 +2,11 @@ import json
 import requests
 import os
 import re
+import sys
 from dotenv import load_dotenv
 
 load_dotenv()
 
-INPUT_FILE = 'worddata_a1.json'
-OUTPUT_FILE = 'worddata_a1_processed.json'
 OPENROUTER_API_KEY = os.getenv('OPENROUTER_API_KEY')
 OPENROUTER_URL = 'https://openrouter.ai/api/v1/chat/completions'
 
@@ -114,15 +113,20 @@ def load_clean_json(file_path):
         content = re.sub(r'\]\]$', ']', content)
         return json.loads(content)
 
-def main():
+def process_json_file(input_file):
     try:
-        word_data_list = load_clean_json(INPUT_FILE)
+        # Generar nombre de archivo de salida
+        output_file = input_file.replace('.json', '_processed.json')
+        if output_file == input_file:
+            output_file = input_file.rsplit('.', 1)[0] + '_processed.json'
+        
+        word_data_list = load_clean_json(input_file)
         processed_data = []
         total_words = len(word_data_list)
 
         # Si existe archivo previo, cargarlo para continuar
-        if os.path.exists(OUTPUT_FILE):
-            with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+        if os.path.exists(output_file):
+            with open(output_file, 'r', encoding='utf-8') as f:
                 try:
                     processed_data = json.load(f)
                 except:
@@ -148,13 +152,26 @@ def main():
                 processed_data.append(word_data)
 
             # Guardar progreso después de cada elemento
-            with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(processed_data, f, ensure_ascii=False, indent=2)
 
-        print(f"\nProcesamiento completado. Resultados guardados en {OUTPUT_FILE}")
+        print(f"\nProcesamiento completado. Resultados guardados en {output_file}")
+        return output_file
 
     except Exception as e:
         print(f"Error en el procesamiento: {e}")
+        return None
+
+def main():
+    # Si se proporciona un argumento de línea de comandos, usarlo como archivo de entrada
+    if len(sys.argv) > 1:
+        input_file = sys.argv[1]
+        if os.path.exists(input_file):
+            process_json_file(input_file)
+        else:
+            print(f"El archivo {input_file} no existe.")
+    else:
+        print("Por favor, arrastra un archivo JSON sobre este script o proporciona la ruta como argumento.")
 
 if __name__ == "__main__":
     main()
