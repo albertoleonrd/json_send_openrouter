@@ -27,14 +27,14 @@ def create_prompt(word_data):
          1. Analizar el JSON proporcionado en <source_json>. 
          2. Identificar el valor de los campos `term` y `definition`.
          3. Clasificar el `term` en una de las categorías de <available_categories> según su `definition`.
-         4. Traducir el valor de `term` al español para generar el campo `term_es`. 
+         4. Traducir el valor de `term` al italiano para generar el campo `term_es`. 
          5. Crear una oración simple para el campo `example` que cumpla estas condiciones: 
              a. La oración debe usar la palabra del campo `term`. 
              b. El significado del `term` en la oración debe corresponder al del campo `definition`. 
              c. Todas las demás palabras usadas deben pertenecer al nivel A1 del vocabulario Oxford 3000. 
              d. La estructura de la oración debe ser fácil de entender para un estudiante de nivel A1. 
          6. Añadir el campo `example_es` al JSON final. 
-         7. Traducir la oración generada en `example` al español para crear `example_es`. 
+         7. Traducir la oración generada en `example` al italiano para crear `example_es`. 
          8. Construir un objeto JSON final que combine los campos originales y los nuevos. 
      </analysis_procedure> 
      <output_rules> 

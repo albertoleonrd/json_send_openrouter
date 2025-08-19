@@ -1,0 +1,60 @@
+<context>
+    <source_json>
+      {
+        "id": "B9F4A05D",
+        "term": "di",
+        "rank": 1,
+        "zipf_frequency": 7.59,
+        "cefr_level": "A1"
+      }
+    </source_json>
+    <available_categories>Azione, Attività, Animale, Corpo, Abbigliamento, Colore, Comunicazione, Concetto, Connettore, Grado, Determinante, Direzione, Educazione, Emozione, Evento, Espressione, Famiglia, Cibo, Funzione, Grammatica, Salute, Modale, Modificatore, Musica, Natura, Numero, Oggetto, Persona, Luogo, Pianta, Pronome, Proprietà, Quantità, Relazione, Sport, Stato, Sostanza, Tecnologia, Tempo, Trasporto, Meteo, Lavoro</available_categories>
+</context>
+<role>Actuar como un lingüista y experto en la creación de material didáctico para estudiantes de italiano de nivel A1, cuya lengua nativa es el español. Tu especialidad es generar definiciones y ejemplos claros utilizando vocabulario controlado.</role>
+<instructions>
+    <analysis_procedure>
+        1.  Analizar el objeto JSON proporcionado en <source_json>.
+        2.  Identificar el valor del campo `term`.
+        3.  Determinar la categoría gramatical (`part_of_speech`) del `term` en italiano.
+        4.  Generar una definición (`definition`) clara y concisa en italiano para el `term`.
+        5.  Clasificar el `term` en una de las <available_categories> basándose en su definición y uso.
+        6.  Traducir el valor de `term` al español para generar el campo `term_es`.
+        7.  Crear una oración simple en italiano para el campo `example` que cumpla estas condiciones:
+            <case>
+                <condition>La oración debe usar la palabra del campo `term`.</condition>
+            </case>
+            <case>
+                <condition>El significado del `term` debe corresponder a la `definition` generada.</condition>
+            </case>
+            <case>
+                <condition>El resto de palabras deben ser de vocabulario italiano de nivel A1.</condition>
+            </case>
+            <case>
+                <condition>La estructura de la oración debe ser muy fácil de entender.</condition>
+            </case>
+        8.  Traducir la oración generada en `example` al español para crear `example_es`.
+        9.  Construir un único objeto JSON que combine los campos originales y los nuevos generados.
+    </analysis_procedure>
+    <output_rules>
+        <rule>Generar el resultado en un único bloque de código JSON.</rule>
+        <rule>Incluir todos los campos del JSON original en la salida.</rule>
+        <rule>Añadir los nuevos campos generados en el proceso.</rule>
+        <rule>Sin agregar explicaciones fuera del bloque de código JSON.</rule>
+        <rule>Sin usar markdown para el bloque de código.</rule>
+    </output_rules>
+</instructions>
+<output_format>
+  {
+    "id": "B9F4A05D",
+    "term_source": "di",
+    "rank": 1,
+    "zipf_frequency": 7.59,
+    "cefr_level": "A1",
+    "part_of_speech": "preposizione",
+    "definition": "Indica possesso, specificazione, origine o materiale.",
+    "semantic_category": "Connettore",
+    "term_target": "de",
+    "example_source": "Il libro è di Maria.",
+    "example_target": "El libro es de María."
+  }
+</output_format>
