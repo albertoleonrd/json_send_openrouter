@@ -59,7 +59,7 @@ def create_prompt(word_data):
     "term_source": "di",
     "rank": 1,
     "zipf_frequency": 7.59,
-    "cefr_level": "A1",
+    "level": "A1",
     "part_of_speech": "preposizione",
     "definition": "Indica possesso, specificazione, origine o materiale.",
     "semantic_category": "Connettore",
